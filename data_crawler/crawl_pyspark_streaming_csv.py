@@ -68,7 +68,7 @@ def crawl_data(start_page, end_page):
 
 
 # Thu thập dữ liệu từ trang 1 đến trang 20
-crawl_data(start_page, 20)
+crawl_data(start_page, 100)
 driver.quit()
 
 # Dừng Spark session

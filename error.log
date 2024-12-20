@@ -1,0 +1,5 @@
+2024-12-20 15:56:42 - Error on page 92: HTTPConnectionPool(host='localhost', port=59363): Max retries exceeded with url: /session/269d0343f8933dfd8c87436738ca23a3/window/maximize (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01279496d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-12-20 15:56:47 - Error on page 92: HTTPConnectionPool(host='localhost', port=59363): Max retries exceeded with url: /session/269d0343f8933dfd8c87436738ca23a3/window/maximize (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0127929410>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-12-20 16:11:42 - Error on page 133: HTTPConnectionPool(host='localhost', port=35345): Read timed out. (read timeout=120)
+2024-12-20 16:13:47 - Error on page 133: HTTPConnectionPool(host='localhost', port=35345): Read timed out. (read timeout=120)
+2024-12-20 16:15:52 - Error on page 133: HTTPConnectionPool(host='localhost', port=35345): Read timed out. (read timeout=120)

@@ -1,0 +1,1012 @@
+{"price": "2,38 t\u1ef7", "area": "43,7 m\u00b2", "price_per_m2": "54,51 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "3,53 t\u1ef7", "area": "86 m\u00b2", "price_per_m2": "41 tr/m\u00b2", "location": "Th\u1ee7 D\u1ea7u M\u1ed9t, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "50,75 t\u1ef7", "area": "3.500 m\u00b2", "price_per_m2": "14,5 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "125,7 m\u00b2", "price_per_m2": null, "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "4,3 t\u1ef7", "area": "76 m\u00b2", "price_per_m2": "56,58 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "5,25 t\u1ef7", "area": "76 m\u00b2", "price_per_m2": "69,08 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "29,9 t\u1ef7", "area": "180 m\u00b2", "price_per_m2": "166,11 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "6,3 t\u1ef7", "area": "76 m\u00b2", "price_per_m2": "82,9 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "2"}
+{"price": "850 tri\u1ec7u", "area": "74,5 m\u00b2", "price_per_m2": "11,41 tr/m\u00b2", "location": "\u0110\u1ed3 S\u01a1n, H\u1ea3i Ph\u00f2ng", "bedroom": null, "bathroom": null}
+{"price": "4,9 t\u1ef7", "area": "413 m\u00b2", "price_per_m2": "11,86 tr/m\u00b2", "location": "\u0110\u1ee9c H\u00f2a, Long An", "bedroom": null, "bathroom": null}
+{"price": "8,2 t\u1ef7", "area": "83,9 m\u00b2", "price_per_m2": "97,74 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "5"}
+{"price": "2,39 t\u1ef7", "area": "75,24 m\u00b2", "price_per_m2": "31,76 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "56 m\u00b2", "price_per_m2": null, "location": "Ng\u00f4 Quy\u1ec1n, H\u1ea3i Ph\u00f2ng", "bedroom": null, "bathroom": null}
+{"price": "8,9 t\u1ef7", "area": "61,7 m\u00b2", "price_per_m2": "144,25 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "40 t\u1ef7", "area": "304 m\u00b2", "price_per_m2": "131,58 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "1,6 t\u1ef7", "area": "53 m\u00b2", "price_per_m2": "30,19 tr/m\u00b2", "location": "Th\u1ee7 D\u1ea7u M\u1ed9t, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "1"}
+{"price": "21,5 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "358,33 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "5"}
+{"price": "2,6 t\u1ef7", "area": "73 m\u00b2", "price_per_m2": "35,62 tr/m\u00b2", "location": "Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "2,25 t\u1ef7", "area": "73 m\u00b2", "price_per_m2": "30,82 tr/m\u00b2", "location": "Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "5,65 t\u1ef7", "area": "300 m\u00b2", "price_per_m2": "18,83 tr/m\u00b2", "location": "T\u00e2n Uy\u00ean, B\u00ecnh D\u01b0\u01a1ng", "bedroom": null, "bathroom": null}
+{"price": "8,9 t\u1ef7", "area": "118 m\u00b2", "price_per_m2": "75,42 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "8,6 t\u1ef7", "area": "83,6 m\u00b2", "price_per_m2": "102,87 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "1,5 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "15 tr/m\u00b2", "location": "Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "300 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "11 t\u1ef7", "area": "180 m\u00b2", "price_per_m2": "61,11 tr/m\u00b2", "location": "T\u1eeb S\u01a1n, B\u1eafc Ninh", "bedroom": "5", "bathroom": "5"}
+{"price": "27,3 t\u1ef7", "area": "140 m\u00b2", "price_per_m2": "195 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "125,8 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "38 t\u1ef7", "area": "198 m\u00b2", "price_per_m2": "191,92 tr/m\u00b2", "location": "T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "8,8 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "117,33 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "13 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "130 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2,85 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "47,5 tr/m\u00b2", "location": "C\u1ea9m L\u1ec7, \u0110\u00e0 N\u1eb5ng", "bedroom": "3", "bathroom": "2"}
+{"price": "7,7 t\u1ef7", "area": "131 m\u00b2", "price_per_m2": "58,78 tr/m\u00b2", "location": "V\u0169ng T\u00e0u, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": "4", "bathroom": "4"}
+{"price": "32,6 t\u1ef7", "area": "157,5 m\u00b2", "price_per_m2": "206,98 tr/m\u00b2", "location": "H\u1ed3ng B\u00e0ng, H\u1ea3i Ph\u00f2ng", "bedroom": null, "bathroom": null}
+{"price": "9,95 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "165,83 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "3"}
+{"price": "1,98 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "38,08 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "9,52 t\u1ef7", "area": "45 m\u00b2", "price_per_m2": "211,56 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "4"}
+{"price": "2 t\u1ef7", "area": "41 m\u00b2", "price_per_m2": "48,78 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "4,35 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "43,5 tr/m\u00b2", "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "16,68 t\u1ef7", "area": "278 m\u00b2", "price_per_m2": "60 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "2,5 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "33,33 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "9,3 t\u1ef7", "area": "50 m\u00b2", "price_per_m2": "186 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "5"}
+{"price": "3,3 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "41,25 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "4 t\u1ef7", "area": "562 m\u00b2", "price_per_m2": "7,12 tr/m\u00b2", "location": "Di\u00ean Kh\u00e1nh, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "80 m\u00b2", "price_per_m2": null, "location": "S\u01a1n T\u00e2y, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "16,5 t\u1ef7", "area": "106 m\u00b2", "price_per_m2": "155,66 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "3"}
+{"price": "5,7 t\u1ef7", "area": "95 m\u00b2", "price_per_m2": "60 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "2,28 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "22,8 tr/m\u00b2", "location": "Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "26,13 t\u1ef7", "area": "278 m\u00b2", "price_per_m2": "94 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "7,2 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "120 tr/m\u00b2", "location": "\u0110an Ph\u01b0\u1ee3ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "5"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "63 m\u00b2", "price_per_m2": null, "location": "Li\u00ean Chi\u1ec3u, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "10,24 t\u1ef7", "area": "115 m\u00b2", "price_per_m2": "89 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "19,5 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "216,67 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2,08 t\u1ef7", "area": "83 m\u00b2", "price_per_m2": "25,06 tr/m\u00b2", "location": "B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "1,31 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "23,8 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "2,5 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "83,33 tr/m\u00b2", "location": "Ch\u01b0\u01a1ng M\u1ef9, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "2 t\u1ef7", "area": "325 m\u00b2", "price_per_m2": "6,15 tr/m\u00b2", "location": "Di\u00ean Kh\u00e1nh, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "5,6 t\u1ef7", "area": "60,4 m\u00b2", "price_per_m2": "92,72 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "3,2 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "40 tr/m\u00b2", "location": "\u0110\u1ed3ng H\u1edbi, Qu\u1ea3ng B\u00ecnh", "bedroom": "2", "bathroom": "1"}
+{"price": "3,35 t\u1ef7", "area": "54 m\u00b2", "price_per_m2": "62 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "34,5 m\u00b2", "price_per_m2": null, "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "8,6 t\u1ef7", "area": "86 m\u00b2", "price_per_m2": "100 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "38 t\u1ef7", "area": "180 m\u00b2", "price_per_m2": "211,11 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "6"}
+{"price": "6,4 t\u1ef7", "area": "73 m\u00b2", "price_per_m2": "87,67 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "4 t\u1ef7", "area": "51,2 m\u00b2", "price_per_m2": "78,12 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": "4", "bathroom": "3"}
+{"price": "13,5 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "150 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "5,9 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "113,46 tr/m\u00b2", "location": "Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "6,3 t\u1ef7", "area": "105 m\u00b2", "price_per_m2": "60 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "10,5 t\u1ef7", "area": "58 m\u00b2", "price_per_m2": "181,03 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "13", "bathroom": "13"}
+{"price": "1,55 t\u1ef7", "area": "51 m\u00b2", "price_per_m2": "30,39 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "1,64 t\u1ef7", "area": "32 m\u00b2", "price_per_m2": "51,34 tr/m\u00b2", "location": "Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "6,1 t\u1ef7", "area": "124 m\u00b2", "price_per_m2": "49,19 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "26,5 t\u1ef7", "area": "473 m\u00b2", "price_per_m2": "56,02 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "5,3 t\u1ef7", "area": "353 m\u00b2", "price_per_m2": "15 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "4,55 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "87,5 tr/m\u00b2", "location": "Thanh Tr\u00ec, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "3,7 t\u1ef7", "area": "5.000 m\u00b2", "price_per_m2": "740 ngh\u00ecn/m\u00b2", "location": "Ninh H\u00f2a, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "2,95 t\u1ef7", "area": "1.000 m\u00b2", "price_per_m2": "2,95 tr/m\u00b2", "location": "Ninh H\u00f2a, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "7,5 t\u1ef7", "area": "81 m\u00b2", "price_per_m2": "92,59 tr/m\u00b2", "location": "L\u00ea Ch\u00e2n, H\u1ea3i Ph\u00f2ng", "bedroom": "15", "bathroom": null}
+{"price": "56 t\u1ef7", "area": "303 m\u00b2", "price_per_m2": "184,82 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "135 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "3"}
+{"price": "16,4 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "182,22 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "1,39 t\u1ef7", "area": "57 m\u00b2", "price_per_m2": "24,39 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "8,6 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "95,56 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "24 t\u1ef7", "area": "186 m\u00b2", "price_per_m2": "129,03 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "3"}
+{"price": "5,24 t\u1ef7", "area": "84,5 m\u00b2", "price_per_m2": "62 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "7,86 t\u1ef7", "area": "43 m\u00b2", "price_per_m2": "182,79 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "4"}
+{"price": "5,58 t\u1ef7", "area": "39 m\u00b2", "price_per_m2": "143,08 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "7,3 t\u1ef7", "area": "140 m\u00b2", "price_per_m2": "52,14 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "1,3 t\u1ef7", "area": "46 m\u00b2", "price_per_m2": "28,26 tr/m\u00b2", "location": "Th\u1ee7 D\u1ea7u M\u1ed9t, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "1", "bathroom": "1"}
+{"price": "6,57 t\u1ef7", "area": "97 m\u00b2", "price_per_m2": "67,68 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "1,4 t\u1ef7", "area": "94 m\u00b2", "price_per_m2": "14,89 tr/m\u00b2", "location": "H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "185 t\u1ef7", "area": "780 m\u00b2", "price_per_m2": "237,18 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "6", "bathroom": null}
+{"price": "9 t\u1ef7", "area": "131 m\u00b2", "price_per_m2": "68,7 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "3 t\u1ef7", "area": "63 m\u00b2", "price_per_m2": "47,62 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "5,4 t\u1ef7", "area": "36 m\u00b2", "price_per_m2": "150 tr/m\u00b2", "location": "Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "3 t\u1ef7", "area": "30.000 m\u00b2", "price_per_m2": "100 ngh\u00ecn/m\u00b2", "location": "Tuy \u0110\u1ee9c, \u0110\u1eafk N\u00f4ng", "bedroom": null, "bathroom": null}
+{"price": "11 t\u1ef7", "area": "221,5 m\u00b2", "price_per_m2": "49,66 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "269 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "6"}
+{"price": "106 t\u1ef7", "area": "160 m\u00b2", "price_per_m2": "662,5 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "6,8 t\u1ef7", "area": "92 m\u00b2", "price_per_m2": "73,91 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "52 m\u00b2", "price_per_m2": null, "location": "Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "4"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "48 m\u00b2", "price_per_m2": null, "location": "H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "108 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "5"}
+{"price": "7,98 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "228 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "4"}
+{"price": "3,65 t\u1ef7", "area": "85 m\u00b2", "price_per_m2": "42,94 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "3,6 t\u1ef7", "area": "47 m\u00b2", "price_per_m2": "76,6 tr/m\u00b2", "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "5,58 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "69,75 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": null}
+{"price": "1,45 t\u1ef7", "area": "98,1 m\u00b2", "price_per_m2": "14,78 tr/m\u00b2", "location": "Phan Thi\u1ebft, B\u00ecnh Thu\u1eadn", "bedroom": null, "bathroom": null}
+{"price": "1,5 t\u1ef7", "area": "175,7 m\u00b2", "price_per_m2": "8,54 tr/m\u00b2", "location": "Ch\u00e2u Th\u00e0nh, Long An", "bedroom": null, "bathroom": null}
+{"price": "13,65 t\u1ef7", "area": "46 m\u00b2", "price_per_m2": "296,74 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "6"}
+{"price": "4,05 t\u1ef7", "area": "92,6 m\u00b2", "price_per_m2": "43,74 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "1.565 m\u00b2", "price_per_m2": null, "location": "S\u01a1n T\u00e2y, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "6,4 t\u1ef7", "area": "160 m\u00b2", "price_per_m2": "40 tr/m\u00b2", "location": "Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai", "bedroom": "4", "bathroom": "3"}
+{"price": "17,5 t\u1ef7", "area": "81 m\u00b2", "price_per_m2": "216,05 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "4,8 t\u1ef7", "area": "500 m\u00b2", "price_per_m2": "9,6 tr/m\u00b2", "location": "Cam Ranh, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "1,5 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "25 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "243 m\u00b2", "price_per_m2": null, "location": "Cam L\u00e2m, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "13,65 t\u1ef7", "area": "46 m\u00b2", "price_per_m2": "296,74 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "6"}
+{"price": "22 t\u1ef7", "area": "63 m\u00b2", "price_per_m2": "349,21 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "7"}
+{"price": "5,99 t\u1ef7", "area": "144 m\u00b2", "price_per_m2": "41,58 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": "1"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "81,74 m\u00b2", "price_per_m2": null, "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "4,8 t\u1ef7", "area": "85 m\u00b2", "price_per_m2": "56,47 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "65 t\u1ef7", "area": "220 m\u00b2", "price_per_m2": "295,46 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "4"}
+{"price": "5,9 t\u1ef7", "area": "28 m\u00b2", "price_per_m2": "210,71 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "7,2 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "60 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "16,8 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "210 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "73 t\u1ef7", "area": "192 m\u00b2", "price_per_m2": "380,21 tr/m\u00b2", "location": "Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "3"}
+{"price": "10,5 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "87,5 tr/m\u00b2", "location": "B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "7"}
+{"price": "9,6 t\u1ef7", "area": "117 m\u00b2", "price_per_m2": "82,05 tr/m\u00b2", "location": "Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "5,7 t\u1ef7", "area": "44 m\u00b2", "price_per_m2": "129,54 tr/m\u00b2", "location": "T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "1,4 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "15,56 tr/m\u00b2", "location": "\u0110\u1ee9c H\u00f2a, Long An", "bedroom": null, "bathroom": null}
+{"price": "9,2 t\u1ef7", "area": "200 m\u00b2", "price_per_m2": "46 tr/m\u00b2", "location": "Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai", "bedroom": "4", "bathroom": "4"}
+{"price": "88 t\u1ef7", "area": "277 m\u00b2", "price_per_m2": "317,69 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "73", "bathroom": "75"}
+{"price": "24 t\u1ef7", "area": "250 m\u00b2", "price_per_m2": "96 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "6", "bathroom": "7"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "66 m\u00b2", "price_per_m2": null, "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "6 t\u1ef7", "area": "1.094 m\u00b2", "price_per_m2": "5,48 tr/m\u00b2", "location": "T\u00e2n An, Long An", "bedroom": null, "bathroom": null}
+{"price": "31 t\u1ef7", "area": "112 m\u00b2", "price_per_m2": "276,79 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "3,8 t\u1ef7", "area": "29 m\u00b2", "price_per_m2": "131,03 tr/m\u00b2", "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "3"}
+{"price": "4,75 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "59,38 tr/m\u00b2", "location": "Qu\u1eadn 4, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "6,8 t\u1ef7", "area": "68 m\u00b2", "price_per_m2": "100 tr/m\u00b2", "location": "B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "4"}
+{"price": "1,67 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "23,15 tr/m\u00b2", "location": "Th\u00e1i Nguy\u00ean, Th\u00e1i Nguy\u00ean", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "124 m\u00b2", "price_per_m2": null, "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "4,25 t\u1ef7", "area": "79 m\u00b2", "price_per_m2": "53,8 tr/m\u00b2", "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "20,7 t\u1ef7", "area": "170 m\u00b2", "price_per_m2": "121,76 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "1,7 t\u1ef7", "area": "98 m\u00b2", "price_per_m2": "17,35 tr/m\u00b2", "location": "S\u00f3c S\u01a1n, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "34,2 t\u1ef7", "area": "153 m\u00b2", "price_per_m2": "223,53 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "5", "bathroom": "5"}
+{"price": "2,4 t\u1ef7", "area": "169 m\u00b2", "price_per_m2": "14,2 tr/m\u00b2", "location": "B\u1ebfn C\u00e1t, B\u00ecnh D\u01b0\u01a1ng", "bedroom": null, "bathroom": null}
+{"price": "6,15 t\u1ef7", "area": "51 m\u00b2", "price_per_m2": "120,59 tr/m\u00b2", "location": "Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "42 t\u1ef7", "area": "86,6 m\u00b2", "price_per_m2": "484,99 tr/m\u00b2", "location": "Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh", "bedroom": "6", "bathroom": "6"}
+{"price": "4,7 t\u1ef7", "area": "48 m\u00b2", "price_per_m2": "98 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "6,8 t\u1ef7", "area": "85 m\u00b2", "price_per_m2": "80 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "15,9 t\u1ef7", "area": "250 m\u00b2", "price_per_m2": "63,6 tr/m\u00b2", "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "1,6 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "30,77 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "8,5 t\u1ef7", "area": "108 m\u00b2", "price_per_m2": "78,7 tr/m\u00b2", "location": "Vinh, Ngh\u1ec7 An", "bedroom": "6", "bathroom": "6"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "120 m\u00b2", "price_per_m2": null, "location": "Vinh, Ngh\u1ec7 An", "bedroom": "5", "bathroom": "5"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "126 m\u00b2", "price_per_m2": null, "location": "Vinh, Ngh\u1ec7 An", "bedroom": "6", "bathroom": "6"}
+{"price": "8,8 t\u1ef7", "area": "49 m\u00b2", "price_per_m2": "179,59 tr/m\u00b2", "location": "Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "9 t\u1ef7", "area": "145 m\u00b2", "price_per_m2": "62,07 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "100 m\u00b2", "price_per_m2": null, "location": "Nh\u01a1n Tr\u1ea1ch, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "3,6 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "48 tr/m\u00b2", "location": "V\u0103n L\u00e2m, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "113 t\u1ef7", "area": "208 m\u00b2", "price_per_m2": "543,27 tr/m\u00b2", "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "8,2 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "234,29 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "21,9 t\u1ef7", "area": "107,2 m\u00b2", "price_per_m2": "204,29 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "68 m\u00b2", "price_per_m2": null, "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "660 m\u00b2", "price_per_m2": null, "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "4,42 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "59 tr/m\u00b2", "location": "Qu\u1ed1c Oai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "65 m\u00b2", "price_per_m2": null, "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "21,6 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "180 tr/m\u00b2", "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "3,2 t\u1ef7", "area": "50 m\u00b2", "price_per_m2": "64 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "3,65 t\u1ef7", "area": "76,1 m\u00b2", "price_per_m2": "48 tr/m\u00b2", "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "4,95 t\u1ef7", "area": "26 m\u00b2", "price_per_m2": "190,38 tr/m\u00b2", "location": "Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "3"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "48 m\u00b2", "price_per_m2": null, "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": "1", "bathroom": "1"}
+{"price": "18,5 t\u1ef7", "area": "44 m\u00b2", "price_per_m2": "420,46 tr/m\u00b2", "location": "Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh", "bedroom": "8", "bathroom": "6"}
+{"price": "17,64 t\u1ef7", "area": "299 m\u00b2", "price_per_m2": "59 tr/m\u00b2", "location": "Y\u00ean M\u1ef9, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": "6"}
+{"price": "33,6 t\u1ef7", "area": "105 m\u00b2", "price_per_m2": "320 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "8,35 t\u1ef7", "area": "93 m\u00b2", "price_per_m2": "89,78 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "8,5 t\u1ef7", "area": "139 m\u00b2", "price_per_m2": "61,15 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "1,9 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "21,11 tr/m\u00b2", "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "15 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "125 tr/m\u00b2", "location": "T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh", "bedroom": "20", "bathroom": "20"}
+{"price": "10,15 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "145 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "3,5 t\u1ef7", "area": "86 m\u00b2", "price_per_m2": "40,7 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "1,98 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "36 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "20,5 t\u1ef7", "area": "109 m\u00b2", "price_per_m2": "188,07 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "3,99 t\u1ef7", "area": "65 m\u00b2", "price_per_m2": "61,38 tr/m\u00b2", "location": "Qu\u1eadn 4, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "2,6 t\u1ef7", "area": "78 m\u00b2", "price_per_m2": "33,33 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "9,6 t\u1ef7", "area": "515 m\u00b2", "price_per_m2": "18,64 tr/m\u00b2", "location": "H\u1ed9i An, Qu\u1ea3ng Nam", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "382 m\u00b2", "price_per_m2": null, "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "7 t\u1ef7", "area": "124 m\u00b2", "price_per_m2": "56,45 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "9,68 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "276,57 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "8 t\u1ef7", "area": "71 m\u00b2", "price_per_m2": "112,68 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "13,5 t\u1ef7", "area": "50 m\u00b2", "price_per_m2": "270 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "6"}
+{"price": "11,33 t\u1ef7", "area": "96 m\u00b2", "price_per_m2": "118 tr/m\u00b2", "location": "An D\u01b0\u01a1ng, H\u1ea3i Ph\u00f2ng", "bedroom": null, "bathroom": null}
+{"price": "2,69 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "48,91 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "6 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "115,38 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "3,74 t\u1ef7", "area": "74,1 m\u00b2", "price_per_m2": "50,47 tr/m\u00b2", "location": "Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "99 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,55 t\u1ef7", "area": "1.177 m\u00b2", "price_per_m2": "1,32 tr/m\u00b2", "location": "H\u00f2a Vang, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "3 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "85,71 tr/m\u00b2", "location": "Ch\u01b0\u01a1ng M\u1ef9, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "3,9 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "65 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "5,7 t\u1ef7", "area": "57 m\u00b2", "price_per_m2": "100 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "91,49 t\u1ef7", "area": "307 m\u00b2", "price_per_m2": "298 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "5"}
+{"price": "15,5 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "103,33 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "90 t\u1ef7", "area": "6.679,1 m\u00b2", "price_per_m2": "13,48 tr/m\u00b2", "location": "B\u1ebfn C\u00e1t, B\u00ecnh D\u01b0\u01a1ng", "bedroom": null, "bathroom": null}
+{"price": "6,15 t\u1ef7", "area": "43 m\u00b2", "price_per_m2": "143,02 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "2,45 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "35 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "22,5 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "312,5 tr/m\u00b2", "location": "Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "106,1 m\u00b2", "price_per_m2": null, "location": "L\u01b0\u01a1ng S\u01a1n, H\u00f2a B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "3,3 t\u1ef7", "area": "165 m\u00b2", "price_per_m2": "20 tr/m\u00b2", "location": "H\u1ea1 Long, Qu\u1ea3ng Ninh", "bedroom": null, "bathroom": null}
+{"price": "8,5 t\u1ef7", "area": "93 m\u00b2", "price_per_m2": "91,4 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": null}
+{"price": "7,2 t\u1ef7", "area": "54 m\u00b2", "price_per_m2": "133,33 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "5,5 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "76,39 tr/m\u00b2", "location": "Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "24,3 t\u1ef7", "area": "180 m\u00b2", "price_per_m2": "135 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "6", "bathroom": "6"}
+{"price": "14,5 t\u1ef7", "area": "136 m\u00b2", "price_per_m2": "106,62 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "21", "bathroom": "23"}
+{"price": "8,4 t\u1ef7", "area": "64 m\u00b2", "price_per_m2": "131,25 tr/m\u00b2", "location": "T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "7,6 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "63,33 tr/m\u00b2", "location": "T\u1eeb S\u01a1n, B\u1eafc Ninh", "bedroom": null, "bathroom": null}
+{"price": "21,27 t\u1ef7", "area": "220,8 m\u00b2", "price_per_m2": "96,34 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "3,65 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "48,67 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "1"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "108 m\u00b2", "price_per_m2": null, "location": "H\u00f2a B\u00ecnh, H\u00f2a B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "15 t\u1ef7", "area": "455 m\u00b2", "price_per_m2": "32,97 tr/m\u00b2", "location": "\u0110\u00e0 L\u1ea1t, L\u00e2m \u0110\u1ed3ng", "bedroom": null, "bathroom": null}
+{"price": "1,75 t\u1ef7", "area": "50 m\u00b2", "price_per_m2": "35 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "1,9 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "36,52 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "1", "bathroom": "1"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "139 m\u00b2", "price_per_m2": null, "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "1,68 t\u1ef7", "area": "44,3 m\u00b2", "price_per_m2": "38 tr/m\u00b2", "location": "M\u00ea Linh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,1 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "13,75 tr/m\u00b2", "location": "Quy Nh\u01a1n, B\u00ecnh \u0110\u1ecbnh", "bedroom": null, "bathroom": null}
+{"price": "2,5 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "35,71 tr/m\u00b2", "location": "Quy Nh\u01a1n, B\u00ecnh \u0110\u1ecbnh", "bedroom": "2", "bathroom": "2"}
+{"price": "9,5 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "105,56 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "14,3 t\u1ef7", "area": "57,5 m\u00b2", "price_per_m2": "248,7 tr/m\u00b2", "location": "Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "6,4 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "91,43 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "1,68 t\u1ef7", "area": "65 m\u00b2", "price_per_m2": "25,85 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "780 tri\u1ec7u", "area": "93,9 m\u00b2", "price_per_m2": "8,31 tr/m\u00b2", "location": "B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "9,6 t\u1ef7", "area": "272 m\u00b2", "price_per_m2": "35,29 tr/m\u00b2", "location": "Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "4"}
+{"price": "10,6 t\u1ef7", "area": "7.950 m\u00b2", "price_per_m2": "1,33 tr/m\u00b2", "location": "\u0110\u1ee9c Tr\u1ecdng, L\u00e2m \u0110\u1ed3ng", "bedroom": null, "bathroom": null}
+{"price": "4,2 t\u1ef7", "area": "95 m\u00b2", "price_per_m2": "44,21 tr/m\u00b2", "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "112 m\u00b2", "price_per_m2": null, "location": "Thanh Tr\u00ec, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "87,5 m\u00b2", "price_per_m2": null, "location": "V\u00e2n \u0110\u1ed3n, Qu\u1ea3ng Ninh", "bedroom": null, "bathroom": null}
+{"price": "11,2 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "74,67 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "38 t\u1ef7", "area": "123 m\u00b2", "price_per_m2": "308,94 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "1,5 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "16,67 tr/m\u00b2", "location": "C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "34,83 t\u1ef7", "area": "26.794 m\u00b2", "price_per_m2": "1,3 tr/m\u00b2", "location": "Nh\u01a1n Tr\u1ea1ch, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "24 t\u1ef7", "area": "1.827 m\u00b2", "price_per_m2": "13,14 tr/m\u00b2", "location": "Th\u1ea1ch Th\u1ea5t, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "7,5 t\u1ef7", "area": "96 m\u00b2", "price_per_m2": "78,12 tr/m\u00b2", "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": null}
+{"price": "3,69 t\u1ef7", "area": "69 m\u00b2", "price_per_m2": "53,48 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "4,1 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "41 tr/m\u00b2", "location": "Y\u00ean Phong, B\u1eafc Ninh", "bedroom": null, "bathroom": null}
+{"price": "14,3 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "119,17 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "4", "bathroom": "2"}
+{"price": "250 tri\u1ec7u", "area": "150 m\u00b2", "price_per_m2": "1,67 tr/m\u00b2", "location": "L\u1ea1c S\u01a1n, H\u00f2a B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "3,05 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "55,46 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "3 t\u1ef7", "area": "56,5 m\u00b2", "price_per_m2": "53,1 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "4,2 t\u1ef7", "area": "88 m\u00b2", "price_per_m2": "47,73 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "5,5 t\u1ef7", "area": "74,2 m\u00b2", "price_per_m2": "74,12 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "2", "bathroom": "2"}
+{"price": "4 t\u1ef7", "area": "33 m\u00b2", "price_per_m2": "121,21 tr/m\u00b2", "location": "Thanh Tr\u00ec, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "2,4 t\u1ef7", "area": "115 m\u00b2", "price_per_m2": "20,87 tr/m\u00b2", "location": "S\u01a1n T\u00e2y, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,75 t\u1ef7", "area": "65 m\u00b2", "price_per_m2": "26,92 tr/m\u00b2", "location": "S\u01a1n T\u00e2y, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "6,24 t\u1ef7", "area": "96 m\u00b2", "price_per_m2": "65 tr/m\u00b2", "location": "T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "4,8 t\u1ef7", "area": "200 m\u00b2", "price_per_m2": "24 tr/m\u00b2", "location": "Ch\u01b0\u01a1ng M\u1ef9, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,65 t\u1ef7", "area": "60,5 m\u00b2", "price_per_m2": "27,27 tr/m\u00b2", "location": "S\u01a1n T\u00e2y, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "4,39 t\u1ef7", "area": "58 m\u00b2", "price_per_m2": "75,69 tr/m\u00b2", "location": "Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "6,5 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "90,28 tr/m\u00b2", "location": "Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "32 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "457,14 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "8"}
+{"price": "6,85 t\u1ef7", "area": "103,8 m\u00b2", "price_per_m2": "65,99 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "5 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "55,56 tr/m\u00b2", "location": "M\u00f3ng C\u00e1i, Qu\u1ea3ng Ninh", "bedroom": "6", "bathroom": "4"}
+{"price": "158 t\u1ef7", "area": "225 m\u00b2", "price_per_m2": "702,22 tr/m\u00b2", "location": "Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "5"}
+{"price": "1,55 t\u1ef7", "area": "65,23 m\u00b2", "price_per_m2": "23,76 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "6,45 t\u1ef7", "area": "145 m\u00b2", "price_per_m2": "44,5 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "6,4 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "64 tr/m\u00b2", "location": "C\u1ea9m L\u1ec7, \u0110\u00e0 N\u1eb5ng", "bedroom": "3", "bathroom": "3"}
+{"price": "7,87 t\u1ef7", "area": "123 m\u00b2", "price_per_m2": "64 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "137,5 m\u00b2", "price_per_m2": null, "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "4,6 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "65,71 tr/m\u00b2", "location": "Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "18,5 t\u1ef7", "area": "36,9 m\u00b2", "price_per_m2": "501,36 tr/m\u00b2", "location": "Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "3"}
+{"price": "3 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "54,54 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "1,4 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "25,46 tr/m\u00b2", "location": "Th\u1ea1ch Th\u1ea5t, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "6,5 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "92,86 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "13 t\u1ef7", "area": "400 m\u00b2", "price_per_m2": "32,5 tr/m\u00b2", "location": "Phan Thi\u1ebft, B\u00ecnh Thu\u1eadn", "bedroom": null, "bathroom": null}
+{"price": "8,9 t\u1ef7", "area": "48 m\u00b2", "price_per_m2": "185,42 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "4,8 t\u1ef7", "area": "76 m\u00b2", "price_per_m2": "63,16 tr/m\u00b2", "location": "Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "120 m\u00b2", "price_per_m2": null, "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": "13", "bathroom": "14"}
+{"price": "17 t\u1ef7", "area": "105 m\u00b2", "price_per_m2": "161,9 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "3,12 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "52 tr/m\u00b2", "location": "Qu\u1ed1c Oai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "5,9 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "98,33 tr/m\u00b2", "location": "Ph\u1ee7 L\u00fd, H\u00e0 Nam", "bedroom": "4", "bathroom": "4"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "97,5 m\u00b2", "price_per_m2": null, "location": "M\u00f3ng C\u00e1i, Qu\u1ea3ng Ninh", "bedroom": "6", "bathroom": "4"}
+{"price": "26,5 t\u1ef7", "area": "115 m\u00b2", "price_per_m2": "230,44 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "5"}
+{"price": "3,1 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "31 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "3", "bathroom": "3"}
+{"price": "1,75 t\u1ef7", "area": "26,3 m\u00b2", "price_per_m2": "66,54 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "16,4 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "182,22 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "9,2 t\u1ef7", "area": "28 m\u00b2", "price_per_m2": "328,57 tr/m\u00b2", "location": "Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "6,9 t\u1ef7", "area": "31 m\u00b2", "price_per_m2": "222,58 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "210 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "131 m\u00b2", "price_per_m2": null, "location": "Ki\u1ebfn An, H\u1ea3i Ph\u00f2ng", "bedroom": "4", "bathroom": "4"}
+{"price": "13,6 t\u1ef7", "area": "188 m\u00b2", "price_per_m2": "72,34 tr/m\u00b2", "location": "Th\u1ee7y Nguy\u00ean, H\u1ea3i Ph\u00f2ng", "bedroom": "4", "bathroom": "5"}
+{"price": "2,49 t\u1ef7", "area": "300 m\u00b2", "price_per_m2": "8,3 tr/m\u00b2", "location": "V\u0129nh C\u1eedu, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "4,95 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "165 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "2,35 t\u1ef7", "area": "67 m\u00b2", "price_per_m2": "35 tr/m\u00b2", "location": "B\u1eafc Giang, B\u1eafc Giang", "bedroom": "2", "bathroom": "2"}
+{"price": "5,7 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "81,43 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "1,98 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "36 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "290 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "7,1 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "88,75 tr/m\u00b2", "location": "Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "9,5 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "182,69 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "7", "bathroom": "7"}
+{"price": "11 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "146,67 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "2,6 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "47,27 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "11,5 t\u1ef7", "area": "131,8 m\u00b2", "price_per_m2": "87,25 tr/m\u00b2", "location": "H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "115 m\u00b2", "price_per_m2": null, "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "3"}
+{"price": "12,3 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "205 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "4"}
+{"price": "1,85 t\u1ef7", "area": "34 m\u00b2", "price_per_m2": "54,41 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "6,65 t\u1ef7", "area": "99,2 m\u00b2", "price_per_m2": "67,04 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2 t\u1ef7", "area": "920 m\u00b2", "price_per_m2": "2,17 tr/m\u00b2", "location": "L\u01b0\u01a1ng S\u01a1n, H\u00f2a B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "33 t\u1ef7", "area": "253 m\u00b2", "price_per_m2": "130,44 tr/m\u00b2", "location": "Ng\u00f4 Quy\u1ec1n, H\u1ea3i Ph\u00f2ng", "bedroom": "4", "bathroom": "5"}
+{"price": "15,2 t\u1ef7", "area": "108 m\u00b2", "price_per_m2": "140,74 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "5", "bathroom": "5"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "80 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "5"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "120 m\u00b2", "price_per_m2": null, "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "7,5 t\u1ef7", "area": "101 m\u00b2", "price_per_m2": "74,26 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "5,7 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "57 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "3,5 t\u1ef7", "area": "83 m\u00b2", "price_per_m2": "42,17 tr/m\u00b2", "location": "Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "9,5 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "95 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "6"}
+{"price": "4,1 t\u1ef7", "area": "58 m\u00b2", "price_per_m2": "70,69 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2,6 t\u1ef7", "area": "56 m\u00b2", "price_per_m2": "46,43 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "2,62 t\u1ef7", "area": "262 m\u00b2", "price_per_m2": "10 tr/m\u00b2", "location": "Di\u00ean Kh\u00e1nh, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "15,3 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "170 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "4,05 t\u1ef7", "area": "69,2 m\u00b2", "price_per_m2": "58,5 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "21,2 t\u1ef7", "area": "220 m\u00b2", "price_per_m2": "96,36 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "4"}
+{"price": "39,5 t\u1ef7", "area": "160 m\u00b2", "price_per_m2": "246,88 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "5", "bathroom": "4"}
+{"price": "1,55 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "15,5 tr/m\u00b2", "location": "H\u00f2a Vang, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "27 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "300 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "5", "bathroom": "4"}
+{"price": "6,6 t\u1ef7", "area": "105 m\u00b2", "price_per_m2": "62,86 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "80 m\u00b2", "price_per_m2": null, "location": "Quy Nh\u01a1n, B\u00ecnh \u0110\u1ecbnh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "115 m\u00b2", "price_per_m2": null, "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "38 t\u1ef7", "area": "240 m\u00b2", "price_per_m2": "158,33 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "75 m\u00b2", "price_per_m2": null, "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "5"}
+{"price": "1,27 t\u1ef7", "area": "255,2 m\u00b2", "price_per_m2": "4,98 tr/m\u00b2", "location": "C\u00e0ng Long, Tr\u00e0 Vinh", "bedroom": null, "bathroom": null}
+{"price": "165 t\u1ef7", "area": "225 m\u00b2", "price_per_m2": "733,33 tr/m\u00b2", "location": "Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "6,2 t\u1ef7", "area": "53 m\u00b2", "price_per_m2": "116,98 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "211 m\u00b2", "price_per_m2": null, "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "90 m\u00b2", "price_per_m2": null, "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "7,6 t\u1ef7", "area": "128 m\u00b2", "price_per_m2": "59,38 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "2,16 t\u1ef7", "area": "54 m\u00b2", "price_per_m2": "40 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "2,83 t\u1ef7", "area": "67 m\u00b2", "price_per_m2": "42,24 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "25 t\u1ef7", "area": "358 m\u00b2", "price_per_m2": "69,83 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "14,85 t\u1ef7", "area": "135 m\u00b2", "price_per_m2": "110 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "16,19 t\u1ef7", "area": "4.152 m\u00b2", "price_per_m2": "3,9 tr/m\u00b2", "location": "Ch\u00e2u \u0110\u1ee9c, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": null, "bathroom": null}
+{"price": "3,5 t\u1ef7", "area": "59 m\u00b2", "price_per_m2": "59,32 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "1", "bathroom": "1"}
+{"price": "3,5 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "35 tr/m\u00b2", "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "1,72 t\u1ef7", "area": "74 m\u00b2", "price_per_m2": "23,24 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "90,91 t\u1ef7", "area": "3.852 m\u00b2", "price_per_m2": "23,6 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "6,1 t\u1ef7", "area": "112 m\u00b2", "price_per_m2": "54,46 tr/m\u00b2", "location": "M\u00f3ng C\u00e1i, Qu\u1ea3ng Ninh", "bedroom": "4", "bathroom": "5"}
+{"price": "21 t\u1ef7", "area": "1.020 m\u00b2", "price_per_m2": "20,59 tr/m\u00b2", "location": "Long Th\u00e0nh, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "5 t\u1ef7", "area": "138 m\u00b2", "price_per_m2": "36,23 tr/m\u00b2", "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "3,9 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "54,17 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "100 m\u00b2", "price_per_m2": null, "location": "B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "17 t\u1ef7", "area": "167 m\u00b2", "price_per_m2": "101,8 tr/m\u00b2", "location": "Thanh H\u00f3a, Thanh H\u00f3a", "bedroom": "5", "bathroom": null}
+{"price": "2,89 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "48,17 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "3", "bathroom": "3"}
+{"price": "4,3 t\u1ef7", "area": "91,3 m\u00b2", "price_per_m2": "47,1 tr/m\u00b2", "location": "B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "4 t\u1ef7", "area": "108 m\u00b2", "price_per_m2": "37,04 tr/m\u00b2", "location": "Ph\u1ed5 Y\u00ean, Th\u00e1i Nguy\u00ean", "bedroom": null, "bathroom": null}
+{"price": "7,95 t\u1ef7", "area": "123 m\u00b2", "price_per_m2": "64,63 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "3", "bathroom": "2"}
+{"price": "4,57 t\u1ef7", "area": "83 m\u00b2", "price_per_m2": "55 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "52,92 t\u1ef7", "area": "147 m\u00b2", "price_per_m2": "360 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": "1"}
+{"price": "3,8 t\u1ef7", "area": "97 m\u00b2", "price_per_m2": "39,17 tr/m\u00b2", "location": "Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "990 tri\u1ec7u", "area": "100 m\u00b2", "price_per_m2": "9,9 tr/m\u00b2", "location": "Giao Th\u1ee7y, Nam \u0110\u1ecbnh", "bedroom": null, "bathroom": null}
+{"price": "6,85 t\u1ef7", "area": "82 m\u00b2", "price_per_m2": "83,54 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "8,84 t\u1ef7", "area": "121,96 m\u00b2", "price_per_m2": "72,45 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": null}
+{"price": "3,7 t\u1ef7", "area": "48,9 m\u00b2", "price_per_m2": "75,67 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "1"}
+{"price": "22,7 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "283,75 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "4"}
+{"price": "16,5 t\u1ef7", "area": "160 m\u00b2", "price_per_m2": "103,12 tr/m\u00b2", "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "12,5 t\u1ef7", "area": "313 m\u00b2", "price_per_m2": "39,94 tr/m\u00b2", "location": "\u0110\u00e0 L\u1ea1t, L\u00e2m \u0110\u1ed3ng", "bedroom": null, "bathroom": null}
+{"price": "3,8 t\u1ef7", "area": "42 m\u00b2", "price_per_m2": "90,48 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "60 t\u1ef7", "area": "160 m\u00b2", "price_per_m2": "375 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": "8", "bathroom": "5"}
+{"price": "31,69 t\u1ef7", "area": "96 m\u00b2", "price_per_m2": "330,1 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "24 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "300 tr/m\u00b2", "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "18,37 t\u1ef7", "area": "334 m\u00b2", "price_per_m2": "55 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "8,2 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "109,33 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "2"}
+{"price": "6,98 t\u1ef7", "area": "40 m\u00b2", "price_per_m2": "174,5 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "8", "bathroom": "8"}
+{"price": "2,35 t\u1ef7", "area": "48 m\u00b2", "price_per_m2": "48,96 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "1"}
+{"price": "18 t\u1ef7", "area": "242 m\u00b2", "price_per_m2": "74,38 tr/m\u00b2", "location": "M\u00ea Linh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "6,9 t\u1ef7", "area": "94 m\u00b2", "price_per_m2": "73,4 tr/m\u00b2", "location": "Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "70 t\u1ef7", "area": "500 m\u00b2", "price_per_m2": "140 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "55 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "458,33 tr/m\u00b2", "location": "Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "16 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "160 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "6", "bathroom": "5"}
+{"price": "17,5 t\u1ef7", "area": "95 m\u00b2", "price_per_m2": "184,21 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "6"}
+{"price": "8,5 t\u1ef7", "area": "67 m\u00b2", "price_per_m2": "126,87 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "15 t\u1ef7", "area": "86,5 m\u00b2", "price_per_m2": "173,41 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "25 t\u1ef7", "area": "200 m\u00b2", "price_per_m2": "125 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "20", "bathroom": "22"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "103,1 m\u00b2", "price_per_m2": null, "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "13,8 t\u1ef7", "area": "174,6 m\u00b2", "price_per_m2": "79,04 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "3,3 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "47,14 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "22 t\u1ef7", "area": "53 m\u00b2", "price_per_m2": "415,09 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": "3", "bathroom": "2"}
+{"price": "2,63 t\u1ef7", "area": "42 m\u00b2", "price_per_m2": "62,62 tr/m\u00b2", "location": "B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "9,6 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "184,62 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "6", "bathroom": "7"}
+{"price": "10 t\u1ef7", "area": "132 m\u00b2", "price_per_m2": "75,76 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "5,35 t\u1ef7", "area": "105 m\u00b2", "price_per_m2": "50,95 tr/m\u00b2", "location": "Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "8,8 t\u1ef7", "area": "102,5 m\u00b2", "price_per_m2": "85,85 tr/m\u00b2", "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": "5", "bathroom": "4"}
+{"price": "6,2 t\u1ef7", "area": "185 m\u00b2", "price_per_m2": "33,51 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "3"}
+{"price": "5,65 t\u1ef7", "area": "93 m\u00b2", "price_per_m2": "60,75 tr/m\u00b2", "location": "Ki\u1ebfn An, H\u1ea3i Ph\u00f2ng", "bedroom": "2", "bathroom": "2"}
+{"price": "18,8 t\u1ef7", "area": "102,5 m\u00b2", "price_per_m2": "183,42 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": "8", "bathroom": null}
+{"price": "4,7 t\u1ef7", "area": "35,4 m\u00b2", "price_per_m2": "132,77 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "3,8 t\u1ef7", "area": "97 m\u00b2", "price_per_m2": "39,17 tr/m\u00b2", "location": "Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "2,34 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "32,43 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "160 m\u00b2", "price_per_m2": null, "location": "Qu\u1ed1c Oai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "6 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "100 tr/m\u00b2", "location": "M\u00f3ng C\u00e1i, Qu\u1ea3ng Ninh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "108 m\u00b2", "price_per_m2": null, "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "4,55 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "65 tr/m\u00b2", "location": "Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "2,1 t\u1ef7", "area": "45 m\u00b2", "price_per_m2": "46,67 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "19 t\u1ef7", "area": "86 m\u00b2", "price_per_m2": "220,93 tr/m\u00b2", "location": "Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "125 m\u00b2", "price_per_m2": null, "location": "C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "1,5 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "10 tr/m\u00b2", "location": "\u0110\u1ee9c H\u00f2a, Long An", "bedroom": null, "bathroom": null}
+{"price": "1,8 t\u1ef7", "area": "50 m\u00b2", "price_per_m2": "36 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "132 m\u00b2", "price_per_m2": null, "location": "Th\u1ee7 Th\u1eeba, Long An", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "51 m\u00b2", "price_per_m2": null, "location": "Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "65 t\u1ef7", "area": "325 m\u00b2", "price_per_m2": "200 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "40,72 t\u1ef7", "area": "626,4 m\u00b2", "price_per_m2": "65 tr/m\u00b2", "location": "H\u1ea3i An, H\u1ea3i Ph\u00f2ng", "bedroom": null, "bathroom": null}
+{"price": "1,98 t\u1ef7", "area": "412 m\u00b2", "price_per_m2": "4,81 tr/m\u00b2", "location": "C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "15,26 t\u1ef7", "area": "96 m\u00b2", "price_per_m2": "159 tr/m\u00b2", "location": "\u0110an Ph\u01b0\u1ee3ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "13 t\u1ef7", "area": "255 m\u00b2", "price_per_m2": "51 tr/m\u00b2", "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "3,65 t\u1ef7", "area": "47 m\u00b2", "price_per_m2": "77,66 tr/m\u00b2", "location": "Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "4"}
+{"price": "1,9 t\u1ef7", "area": "102 m\u00b2", "price_per_m2": "18,63 tr/m\u00b2", "location": "Th\u1ee7 Th\u1eeba, Long An", "bedroom": null, "bathroom": null}
+{"price": "19,2 t\u1ef7", "area": "160 m\u00b2", "price_per_m2": "120 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "4 t\u1ef7", "area": "64 m\u00b2", "price_per_m2": "62,5 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "5,89 t\u1ef7", "area": "54 m\u00b2", "price_per_m2": "109 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "5,99 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "59,9 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": "5", "bathroom": "5"}
+{"price": "5,8 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "58 tr/m\u00b2", "location": "B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "10 t\u1ef7", "area": "64 m\u00b2", "price_per_m2": "156,25 tr/m\u00b2", "location": "Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "4"}
+{"price": "1,95 t\u1ef7", "area": "112 m\u00b2", "price_per_m2": "17,41 tr/m\u00b2", "location": "Th\u1ee7 Th\u1eeba, Long An", "bedroom": null, "bathroom": null}
+{"price": "3,6 t\u1ef7", "area": "82 m\u00b2", "price_per_m2": "43,9 tr/m\u00b2", "location": "L\u00ea Ch\u00e2n, H\u1ea3i Ph\u00f2ng", "bedroom": "2", "bathroom": "2"}
+{"price": "21,5 t\u1ef7", "area": "250 m\u00b2", "price_per_m2": "86 tr/m\u00b2", "location": "Nh\u01a1n Tr\u1ea1ch, \u0110\u1ed3ng Nai", "bedroom": "3", "bathroom": "4"}
+{"price": "900 tri\u1ec7u", "area": "100 m\u00b2", "price_per_m2": "9 tr/m\u00b2", "location": "Nh\u01a1n Tr\u1ea1ch, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "100 m\u00b2", "price_per_m2": null, "location": "M\u00ea Linh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "50 m\u00b2", "price_per_m2": null, "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "2,49 t\u1ef7", "area": "73,3 m\u00b2", "price_per_m2": "33,97 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": "3", "bathroom": "1"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "120 m\u00b2", "price_per_m2": null, "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "5,5 t\u1ef7", "area": "61,1 m\u00b2", "price_per_m2": "90,02 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": "2", "bathroom": null}
+{"price": "9,68 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "276,57 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "18 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "120 tr/m\u00b2", "location": "Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "5,6 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "70 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "8,5 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "56,67 tr/m\u00b2", "location": "H\u1ed9i An, Qu\u1ea3ng Nam", "bedroom": "7", "bathroom": "6"}
+{"price": "11,6 t\u1ef7", "area": "87 m\u00b2", "price_per_m2": "133,33 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "12", "bathroom": "12"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "119,8 m\u00b2", "price_per_m2": null, "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "4,45 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "44,5 tr/m\u00b2", "location": "Li\u00ean Chi\u1ec3u, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "7,9 t\u1ef7", "area": "99 m\u00b2", "price_per_m2": "79,8 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "6,6 t\u1ef7", "area": "48 m\u00b2", "price_per_m2": "137,5 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2,35 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "32,64 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "2,5 t\u1ef7", "area": "96 m\u00b2", "price_per_m2": "26,04 tr/m\u00b2", "location": "Th\u00e1i Nguy\u00ean, Th\u00e1i Nguy\u00ean", "bedroom": null, "bathroom": null}
+{"price": "24 t\u1ef7", "area": "109 m\u00b2", "price_per_m2": "220,18 tr/m\u00b2", "location": "Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "3,15 t\u1ef7", "area": "52,5 m\u00b2", "price_per_m2": "60 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "1,75 t\u1ef7", "area": "500 m\u00b2", "price_per_m2": "3,5 tr/m\u00b2", "location": "Ph\u00fa Qu\u1ed1c, Ki\u00ean Giang", "bedroom": null, "bathroom": null}
+{"price": "13,99 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "233,17 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "3,5 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "35 tr/m\u00b2", "location": "Ph\u1ed5 Y\u00ean, Th\u00e1i Nguy\u00ean", "bedroom": null, "bathroom": null}
+{"price": "8,9 t\u1ef7", "area": "116 m\u00b2", "price_per_m2": "76,72 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "4,69 t\u1ef7", "area": "115,2 m\u00b2", "price_per_m2": "40,71 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "2,5 t\u1ef7", "area": "514 m\u00b2", "price_per_m2": "4,86 tr/m\u00b2", "location": "Ph\u00fa M\u1ef9, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": null, "bathroom": null}
+{"price": "52 t\u1ef7", "area": "160 m\u00b2", "price_per_m2": "325 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "3,99 t\u1ef7", "area": "65 m\u00b2", "price_per_m2": "61,38 tr/m\u00b2", "location": "Qu\u1eadn 4, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "42 t\u1ef7", "area": "700 m\u00b2", "price_per_m2": "60 tr/m\u00b2", "location": "Phan Thi\u1ebft, B\u00ecnh Thu\u1eadn", "bedroom": null, "bathroom": null}
+{"price": "2,5 t\u1ef7", "area": "200 m\u00b2", "price_per_m2": "12,5 tr/m\u00b2", "location": "B\u00e0 R\u1ecba, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": "2", "bathroom": "1"}
+{"price": "4,95 t\u1ef7", "area": "34 m\u00b2", "price_per_m2": "145,59 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "6,1 t\u1ef7", "area": "122 m\u00b2", "price_per_m2": "50 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "12,35 t\u1ef7", "area": "213 m\u00b2", "price_per_m2": "58 tr/m\u00b2", "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "20,8 t\u1ef7", "area": "50 m\u00b2", "price_per_m2": "416 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "6"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "72 m\u00b2", "price_per_m2": null, "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "5 t\u1ef7", "area": "77,5 m\u00b2", "price_per_m2": "64,52 tr/m\u00b2", "location": "V\u0169ng T\u00e0u, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": "4", "bathroom": "4"}
+{"price": "1,2 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "10 tr/m\u00b2", "location": "Qu\u1ed1c Oai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "6,4 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "182,86 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "6,6 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "188,57 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "5,13 t\u1ef7", "area": "61 m\u00b2", "price_per_m2": "84,15 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": "2", "bathroom": "2"}
+{"price": "2,68 t\u1ef7", "area": "293 m\u00b2", "price_per_m2": "9,15 tr/m\u00b2", "location": "Ch\u00e2u Th\u00e0nh, Ti\u1ec1n Giang", "bedroom": "3", "bathroom": "3"}
+{"price": "55 t\u1ef7", "area": "366 m\u00b2", "price_per_m2": "150,27 tr/m\u00b2", "location": "T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "7,5 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "125 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": null}
+{"price": "10,99 t\u1ef7", "area": "157 m\u00b2", "price_per_m2": "70 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "4,38 t\u1ef7", "area": "74 m\u00b2", "price_per_m2": "59,19 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "40,5 t\u1ef7", "area": "308 m\u00b2", "price_per_m2": "131,49 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "8,35 t\u1ef7", "area": "121 m\u00b2", "price_per_m2": "69 tr/m\u00b2", "location": "M\u00ea Linh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "38 t\u1ef7", "area": "375 m\u00b2", "price_per_m2": "101,33 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "37 t\u1ef7", "area": "236 m\u00b2", "price_per_m2": "156,78 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "6,22 t\u1ef7", "area": "48 m\u00b2", "price_per_m2": "129,58 tr/m\u00b2", "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "5,67 t\u1ef7", "area": "54 m\u00b2", "price_per_m2": "105 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "24,5 t\u1ef7", "area": "78 m\u00b2", "price_per_m2": "314,1 tr/m\u00b2", "location": "Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "18,5 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "264,29 tr/m\u00b2", "location": "L\u00ea Ch\u00e2n, H\u1ea3i Ph\u00f2ng", "bedroom": null, "bathroom": null}
+{"price": "118 t\u1ef7", "area": "130 m\u00b2", "price_per_m2": "907,69 tr/m\u00b2", "location": "Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh", "bedroom": "10", "bathroom": "6"}
+{"price": "15 t\u1ef7", "area": "42 m\u00b2", "price_per_m2": "357,14 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "14,2 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "273,08 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "7", "bathroom": "5"}
+{"price": "23 t\u1ef7", "area": "130 m\u00b2", "price_per_m2": "176,92 tr/m\u00b2", "location": "T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "4,64 t\u1ef7", "area": "59 m\u00b2", "price_per_m2": "78,64 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "4,5 t\u1ef7", "area": "300 m\u00b2", "price_per_m2": "15 tr/m\u00b2", "location": "Cao Phong, H\u00f2a B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "4,7 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "65,28 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "3,4 t\u1ef7", "area": "68 m\u00b2", "price_per_m2": "50 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "2,35 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "15,67 tr/m\u00b2", "location": "B\u1ebfn C\u00e1t, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "3", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "42 m\u00b2", "price_per_m2": null, "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "34,09 t\u1ef7", "area": "439,5 m\u00b2", "price_per_m2": "77,56 tr/m\u00b2", "location": "T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "27 t\u1ef7", "area": "57,3 m\u00b2", "price_per_m2": "471,2 tr/m\u00b2", "location": "Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh", "bedroom": "6", "bathroom": "3"}
+{"price": "3,42 t\u1ef7", "area": "180 m\u00b2", "price_per_m2": "19 tr/m\u00b2", "location": "An D\u01b0\u01a1ng, H\u1ea3i Ph\u00f2ng", "bedroom": null, "bathroom": null}
+{"price": "1,45 t\u1ef7", "area": "311 m\u00b2", "price_per_m2": "4,66 tr/m\u00b2", "location": "Ninh H\u00f2a, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "1,19 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "21,64 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "4,92 t\u1ef7", "area": "115 m\u00b2", "price_per_m2": "42,8 tr/m\u00b2", "location": "Th\u1ea1ch Th\u1ea5t, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,29 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "36,86 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "1"}
+{"price": "7 t\u1ef7", "area": "77,5 m\u00b2", "price_per_m2": "90,32 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "80 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "533,33 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2,5 t\u1ef7", "area": "720 m\u00b2", "price_per_m2": "3,47 tr/m\u00b2", "location": "Ba V\u00ec, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "4,9 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "61,25 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "1,6 t\u1ef7", "area": "335 m\u00b2", "price_per_m2": "4,78 tr/m\u00b2", "location": "Ba V\u00ec, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "64,3 m\u00b2", "price_per_m2": null, "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "2", "bathroom": "2"}
+{"price": "39 t\u1ef7", "area": "202,5 m\u00b2", "price_per_m2": "192,59 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "17,5 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "175 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "26,8 t\u1ef7", "area": "104 m\u00b2", "price_per_m2": "257,69 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "34", "bathroom": "34"}
+{"price": "7,6 t\u1ef7", "area": "74 m\u00b2", "price_per_m2": "102,7 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "36 t\u1ef7", "area": "198 m\u00b2", "price_per_m2": "181,82 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "6,5 t\u1ef7", "area": "36 m\u00b2", "price_per_m2": "180,56 tr/m\u00b2", "location": "Thanh Tr\u00ec, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "4"}
+{"price": "7,3 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "208,57 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "23,8 t\u1ef7", "area": "81 m\u00b2", "price_per_m2": "293,83 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "11,9 t\u1ef7", "area": "40 m\u00b2", "price_per_m2": "297,5 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "28 t\u1ef7", "area": "180 m\u00b2", "price_per_m2": "155,56 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "3,4 t\u1ef7", "area": "58,9 m\u00b2", "price_per_m2": "57,72 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "3,45 t\u1ef7", "area": "25 m\u00b2", "price_per_m2": "138 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "392 m\u00b2", "price_per_m2": null, "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "3,55 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "35,5 tr/m\u00b2", "location": "S\u00f3c S\u01a1n, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "31 t\u1ef7", "area": "227,5 m\u00b2", "price_per_m2": "136,26 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "32 t\u1ef7", "area": "225 m\u00b2", "price_per_m2": "142,22 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2,48 t\u1ef7", "area": "198,4 m\u00b2", "price_per_m2": "12,5 tr/m\u00b2", "location": "Di\u00ean Kh\u00e1nh, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "390 tri\u1ec7u", "area": "900 m\u00b2", "price_per_m2": "433,33 ngh\u00ecn/m\u00b2", "location": "Kh\u00e1nh V\u0129nh, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "9 t\u1ef7", "area": "140 m\u00b2", "price_per_m2": "64,29 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "4 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "114,29 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "5 t\u1ef7", "area": "126 m\u00b2", "price_per_m2": "39,68 tr/m\u00b2", "location": "Tuy Ph\u01b0\u1edbc, B\u00ecnh \u0110\u1ecbnh", "bedroom": null, "bathroom": null}
+{"price": "15 t\u1ef7", "area": "110 m\u00b2", "price_per_m2": "136,36 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "4", "bathroom": "4"}
+{"price": "4,5 t\u1ef7", "area": "78 m\u00b2", "price_per_m2": "57,69 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "17,6 t\u1ef7", "area": "127,5 m\u00b2", "price_per_m2": "138,04 tr/m\u00b2", "location": "Th\u1ee7y Nguy\u00ean, H\u1ea3i Ph\u00f2ng", "bedroom": "4", "bathroom": "3"}
+{"price": "13,5 t\u1ef7", "area": "49 m\u00b2", "price_per_m2": "275,51 tr/m\u00b2", "location": "Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "5"}
+{"price": "4 t\u1ef7", "area": "56 m\u00b2", "price_per_m2": "71,43 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "9,9 t\u1ef7", "area": "40 m\u00b2", "price_per_m2": "247,5 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "50 t\u1ef7", "area": "600 m\u00b2", "price_per_m2": "83,33 tr/m\u00b2", "location": "Nh\u01a1n Tr\u1ea1ch, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "15 t\u1ef7", "area": "50 m\u00b2", "price_per_m2": "299,98 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "2,14 t\u1ef7", "area": "48 m\u00b2", "price_per_m2": "44,5 tr/m\u00b2", "location": "Th\u1ee7 D\u1ea7u M\u1ed9t, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "1", "bathroom": "1"}
+{"price": "9,75 t\u1ef7", "area": "295 m\u00b2", "price_per_m2": "33,05 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": null, "bathroom": null}
+{"price": "4,1 t\u1ef7", "area": "122 m\u00b2", "price_per_m2": "33,61 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "3", "bathroom": "2"}
+{"price": "14,8 t\u1ef7", "area": "136 m\u00b2", "price_per_m2": "108,82 tr/m\u00b2", "location": "Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai", "bedroom": "3", "bathroom": "3"}
+{"price": "4,25 t\u1ef7", "area": "32 m\u00b2", "price_per_m2": "132,81 tr/m\u00b2", "location": "Thanh Tr\u00ec, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "12 t\u1ef7", "area": "155 m\u00b2", "price_per_m2": "77,42 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "6 t\u1ef7", "area": "66 m\u00b2", "price_per_m2": "90,91 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "65 tri\u1ec7u", "area": "4,8 m\u00b2", "price_per_m2": "13,54 tr/m\u00b2", "location": "Long Th\u00e0nh, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "1,84 t\u1ef7", "area": "108 m\u00b2", "price_per_m2": "17 tr/m\u00b2", "location": "Th\u1ee7 Th\u1eeba, Long An", "bedroom": null, "bathroom": null}
+{"price": "3,1 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "103,33 tr/m\u00b2", "location": "T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "16,15 t\u1ef7", "area": "73 m\u00b2", "price_per_m2": "221,23 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": "18", "bathroom": "18"}
+{"price": "11 t\u1ef7", "area": "56 m\u00b2", "price_per_m2": "196,43 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "18,3 t\u1ef7", "area": "78 m\u00b2", "price_per_m2": "234,62 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "21", "bathroom": "21"}
+{"price": "13,5 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "245,46 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "15", "bathroom": "15"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "2.600 m\u00b2", "price_per_m2": null, "location": "Kho\u00e1i Ch\u00e2u, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "51 t\u1ef7", "area": "82 m\u00b2", "price_per_m2": "621,95 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "51 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "637,5 tr/m\u00b2", "location": "Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": null}
+{"price": "2,95 t\u1ef7", "area": "139 m\u00b2", "price_per_m2": "21,22 tr/m\u00b2", "location": "V\u1ea1n Ninh, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "145 t\u1ef7", "area": "200 m\u00b2", "price_per_m2": "725 tr/m\u00b2", "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "200 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "3 t\u1ef7", "area": "46 m\u00b2", "price_per_m2": "65,22 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "1"}
+{"price": "5,85 t\u1ef7", "area": "47 m\u00b2", "price_per_m2": "124,47 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": null}
+{"price": "10,9 t\u1ef7", "area": "45 m\u00b2", "price_per_m2": "242,22 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "5"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "60 m\u00b2", "price_per_m2": null, "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "8"}
+{"price": "8,8 t\u1ef7", "area": "69 m\u00b2", "price_per_m2": "127,54 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "580 tri\u1ec7u", "area": "96,6 m\u00b2", "price_per_m2": "6 tr/m\u00b2", "location": "H\u00e0 Ti\u00ean, Ki\u00ean Giang", "bedroom": null, "bathroom": null}
+{"price": "3,33 t\u1ef7", "area": "555 m\u00b2", "price_per_m2": "6 tr/m\u00b2", "location": "L\u01b0\u01a1ng S\u01a1n, H\u00f2a B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "1,25 t\u1ef7", "area": "83,8 m\u00b2", "price_per_m2": "14,92 tr/m\u00b2", "location": "Di\u00ean Kh\u00e1nh, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "255 tri\u1ec7u", "area": "120 m\u00b2", "price_per_m2": "2,12 tr/m\u00b2", "location": "Y\u00ean Th\u1ee7y, H\u00f2a B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "255 tri\u1ec7u", "area": "120 m\u00b2", "price_per_m2": "2,12 tr/m\u00b2", "location": "Y\u00ean Th\u1ee7y, H\u00f2a B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "121 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "3,85 t\u1ef7", "area": "1.100 m\u00b2", "price_per_m2": "3,5 tr/m\u00b2", "location": "Ba V\u00ec, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "13,5 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "135 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "4", "bathroom": "3"}
+{"price": "15 t\u1ef7", "area": "200 m\u00b2", "price_per_m2": "75 tr/m\u00b2", "location": "Thanh H\u00f3a, Thanh H\u00f3a", "bedroom": null, "bathroom": null}
+{"price": "8,8 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "160 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "15,8 t\u1ef7", "area": "50 m\u00b2", "price_per_m2": "316 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "6"}
+{"price": "4,15 t\u1ef7", "area": "64,5 m\u00b2", "price_per_m2": "64,34 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "207 m\u00b2", "price_per_m2": null, "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "6"}
+{"price": "32,5 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "270,83 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "3,6 t\u1ef7", "area": "64 m\u00b2", "price_per_m2": "56,25 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "115 m\u00b2", "price_per_m2": null, "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "6,4 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "182,86 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "21,9 t\u1ef7", "area": "63 m\u00b2", "price_per_m2": "347,62 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "5"}
+{"price": "2,86 t\u1ef7", "area": "51 m\u00b2", "price_per_m2": "56,08 tr/m\u00b2", "location": "B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "3,65 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "121,67 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "3"}
+{"price": "7,68 t\u1ef7", "area": "78 m\u00b2", "price_per_m2": "98,46 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "4"}
+{"price": "14,5 t\u1ef7", "area": "86 m\u00b2", "price_per_m2": "168,6 tr/m\u00b2", "location": "Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "18 t\u1ef7", "area": "300 m\u00b2", "price_per_m2": "60 tr/m\u00b2", "location": "M\u00ea Linh, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "4"}
+{"price": "23,95 t\u1ef7", "area": "375 m\u00b2", "price_per_m2": "63,87 tr/m\u00b2", "location": "Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai", "bedroom": "4", "bathroom": "5"}
+{"price": "4,4 t\u1ef7", "area": "83 m\u00b2", "price_per_m2": "53,01 tr/m\u00b2", "location": "B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "1,89 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "18,9 tr/m\u00b2", "location": "S\u00f3c S\u01a1n, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "12 t\u1ef7", "area": "55,2 m\u00b2", "price_per_m2": "217,39 tr/m\u00b2", "location": "Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "5"}
+{"price": "629 tri\u1ec7u", "area": "161 m\u00b2", "price_per_m2": "3,91 tr/m\u00b2", "location": "Ninh H\u00f2a, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "4,6 t\u1ef7", "area": "45 m\u00b2", "price_per_m2": "102,22 tr/m\u00b2", "location": "Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "14,5 t\u1ef7", "area": "48 m\u00b2", "price_per_m2": "302,08 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "5"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "90 m\u00b2", "price_per_m2": null, "location": "\u0110an Ph\u01b0\u1ee3ng, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "4"}
+{"price": "1,7 t\u1ef7", "area": "36 m\u00b2", "price_per_m2": "47,19 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "18 t\u1ef7", "area": "170 m\u00b2", "price_per_m2": "105,88 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "17,9 t\u1ef7", "area": "270 m\u00b2", "price_per_m2": "66,3 tr/m\u00b2", "location": "V\u0169ng T\u00e0u, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": "4", "bathroom": "4"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "78 m\u00b2", "price_per_m2": null, "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "10,8 t\u1ef7", "area": "40 m\u00b2", "price_per_m2": "270 tr/m\u00b2", "location": "T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "7,7 t\u1ef7", "area": "38 m\u00b2", "price_per_m2": "202,63 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "8,38 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "116,39 tr/m\u00b2", "location": "T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "10,6 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "147,22 tr/m\u00b2", "location": "Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "6,98 t\u1ef7", "area": "39 m\u00b2", "price_per_m2": "178,97 tr/m\u00b2", "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "3,85 t\u1ef7", "area": "170,3 m\u00b2", "price_per_m2": "22,61 tr/m\u00b2", "location": "Ti\u00ean L\u1eef, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "43 m\u00b2", "price_per_m2": null, "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "3"}
+{"price": "2,23 t\u1ef7", "area": "48,5 m\u00b2", "price_per_m2": "46 tr/m\u00b2", "location": "\u0110an Ph\u01b0\u1ee3ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "120 m\u00b2", "price_per_m2": null, "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "6,5 t\u1ef7", "area": "71,5 m\u00b2", "price_per_m2": "90,91 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "10,8 t\u1ef7", "area": "172 m\u00b2", "price_per_m2": "62,79 tr/m\u00b2", "location": "V\u0169ng T\u00e0u, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": "4", "bathroom": "3"}
+{"price": "9,6 t\u1ef7", "area": "135 m\u00b2", "price_per_m2": "71,11 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "5", "bathroom": "3"}
+{"price": "5,85 t\u1ef7", "area": "101 m\u00b2", "price_per_m2": "57,9 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "56 t\u1ef7", "area": "702 m\u00b2", "price_per_m2": "79,77 tr/m\u00b2", "location": "\u0110\u00e0 L\u1ea1t, L\u00e2m \u0110\u1ed3ng", "bedroom": null, "bathroom": null}
+{"price": "63 t\u1ef7", "area": "197 m\u00b2", "price_per_m2": "319,8 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "5"}
+{"price": "6,78 t\u1ef7", "area": "113 m\u00b2", "price_per_m2": "60 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": null}
+{"price": "8,6 t\u1ef7", "area": "91,4 m\u00b2", "price_per_m2": "94,09 tr/m\u00b2", "location": "H\u00e0 Giang, H\u00e0 Giang", "bedroom": null, "bathroom": null}
+{"price": "2,85 t\u1ef7", "area": "4.400 m\u00b2", "price_per_m2": "647,73 ngh\u00ecn/m\u00b2", "location": "Ninh H\u00f2a, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "5,3 t\u1ef7", "area": "87,5 m\u00b2", "price_per_m2": "60,57 tr/m\u00b2", "location": "V\u0169ng T\u00e0u, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": "4", "bathroom": "3"}
+{"price": "21,5 t\u1ef7", "area": "65 m\u00b2", "price_per_m2": "330,77 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": null}
+{"price": "750 tri\u1ec7u", "area": "100 m\u00b2", "price_per_m2": "7,5 tr/m\u00b2", "location": "S\u00f4ng C\u00f4ng, Th\u00e1i Nguy\u00ean", "bedroom": null, "bathroom": null}
+{"price": "56 t\u1ef7", "area": "308 m\u00b2", "price_per_m2": "181,82 tr/m\u00b2", "location": "Nh\u01a1n Tr\u1ea1ch, \u0110\u1ed3ng Nai", "bedroom": "4", "bathroom": "5"}
+{"price": "3,9 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "55,71 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "63 t\u1ef7", "area": "180 m\u00b2", "price_per_m2": "350 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "114 m\u00b2", "price_per_m2": null, "location": "B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "5,5 t\u1ef7", "area": "136 m\u00b2", "price_per_m2": "40,44 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": null, "bathroom": null}
+{"price": "4,5 t\u1ef7", "area": "92 m\u00b2", "price_per_m2": "48,91 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "16,5 t\u1ef7", "area": "105 m\u00b2", "price_per_m2": "157,14 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "155 m\u00b2", "price_per_m2": null, "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "9", "bathroom": "9"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "155 m\u00b2", "price_per_m2": null, "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "9", "bathroom": "9"}
+{"price": "6,5 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "65 tr/m\u00b2", "location": "B\u1ebfn L\u1ee9c, Long An", "bedroom": "3", "bathroom": "2"}
+{"price": "2,7 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "49,09 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "7,3 t\u1ef7", "area": "36 m\u00b2", "price_per_m2": "202,78 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "90 m\u00b2", "price_per_m2": null, "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "13,5 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "90 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "6,6 t\u1ef7", "area": "33,1 m\u00b2", "price_per_m2": "199,4 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "5,5 t\u1ef7", "area": "96 m\u00b2", "price_per_m2": "57,29 tr/m\u00b2", "location": "B\u1ebfn L\u1ee9c, Long An", "bedroom": "3", "bathroom": "3"}
+{"price": "4,05 t\u1ef7", "area": "64 m\u00b2", "price_per_m2": "63,28 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "9 t\u1ef7", "area": "84,5 m\u00b2", "price_per_m2": "106,51 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "3,6 t\u1ef7", "area": "88 m\u00b2", "price_per_m2": "40,91 tr/m\u00b2", "location": "Thanh Tr\u00ec, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "7,2 t\u1ef7", "area": "63 m\u00b2", "price_per_m2": "114,29 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "1,94 t\u1ef7", "area": "32 m\u00b2", "price_per_m2": "60,62 tr/m\u00b2", "location": "Ch\u01b0\u01a1ng M\u1ef9, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "42 t\u1ef7", "area": "93,52 m\u00b2", "price_per_m2": "449,1 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "5"}
+{"price": "4,82 t\u1ef7", "area": "240 m\u00b2", "price_per_m2": "20,08 tr/m\u00b2", "location": "Ph\u00fa Th\u1ecd, Ph\u00fa Th\u1ecd", "bedroom": null, "bathroom": null}
+{"price": "4,08 t\u1ef7", "area": "64 m\u00b2", "price_per_m2": "63,75 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "2,45 t\u1ef7", "area": "85 m\u00b2", "price_per_m2": "28,82 tr/m\u00b2", "location": "Li\u00ean Chi\u1ec3u, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "1,65 t\u1ef7", "area": "58 m\u00b2", "price_per_m2": "28,45 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "5,5 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "183,33 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "5"}
+{"price": "4,3 t\u1ef7", "area": "81,25 m\u00b2", "price_per_m2": "52,92 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "59 t\u1ef7", "area": "128 m\u00b2", "price_per_m2": "460,94 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "2"}
+{"price": "2,2 t\u1ef7", "area": "46 m\u00b2", "price_per_m2": "47,83 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "54 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2,38 t\u1ef7", "area": "20 m\u00b2", "price_per_m2": "119 tr/m\u00b2", "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "7 t\u1ef7", "area": "64 m\u00b2", "price_per_m2": "109,38 tr/m\u00b2", "location": "Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "3,75 t\u1ef7", "area": "76 m\u00b2", "price_per_m2": "49,34 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "380 t\u1ef7", "area": "530 m\u00b2", "price_per_m2": "716,98 tr/m\u00b2", "location": "Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "15,3 t\u1ef7", "area": "110 m\u00b2", "price_per_m2": "139,09 tr/m\u00b2", "location": "Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "15,5 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "281,82 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": null}
+{"price": "31,5 t\u1ef7", "area": "200 m\u00b2", "price_per_m2": "157,5 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "5"}
+{"price": "5,4 t\u1ef7", "area": "200 m\u00b2", "price_per_m2": "27 tr/m\u00b2", "location": "Ti\u00ean Du, B\u1eafc Ninh", "bedroom": null, "bathroom": null}
+{"price": "17,6 t\u1ef7", "area": "127,5 m\u00b2", "price_per_m2": "138,04 tr/m\u00b2", "location": "Th\u1ee7y Nguy\u00ean, H\u1ea3i Ph\u00f2ng", "bedroom": "3", "bathroom": "4"}
+{"price": "5,9 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "81,94 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "7 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "233,33 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "10,8 t\u1ef7", "area": "62 m\u00b2", "price_per_m2": "174,19 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "10", "bathroom": null}
+{"price": "5,5 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "78,57 tr/m\u00b2", "location": "Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "4,95 t\u1ef7", "area": "32 m\u00b2", "price_per_m2": "154,69 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "2,25 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "31,25 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "18 t\u1ef7", "area": "92,7 m\u00b2", "price_per_m2": "194,18 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "50 t\u1ef7", "area": "147 m\u00b2", "price_per_m2": "340,14 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "133 m\u00b2", "price_per_m2": null, "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "42 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "700 tr/m\u00b2", "location": "Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "6"}
+{"price": "3,5 t\u1ef7", "area": "37,4 m\u00b2", "price_per_m2": "93,58 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "3"}
+{"price": "5,5 t\u1ef7", "area": "111 m\u00b2", "price_per_m2": "49,55 tr/m\u00b2", "location": "Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai", "bedroom": "4", "bathroom": "3"}
+{"price": "17,5 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "250 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "7,8 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "111,43 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "5", "bathroom": "5"}
+{"price": "5,6 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "107,69 tr/m\u00b2", "location": "Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "4"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "68 m\u00b2", "price_per_m2": null, "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "112,9 m\u00b2", "price_per_m2": null, "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "6,6 t\u1ef7", "area": "108,1 m\u00b2", "price_per_m2": "61,06 tr/m\u00b2", "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "2,15 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "61,43 tr/m\u00b2", "location": "B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "63 m\u00b2", "price_per_m2": null, "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "16,2 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "202,5 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "9,8 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "81,67 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "1,5 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "15 tr/m\u00b2", "location": "Nh\u01a1n Tr\u1ea1ch, \u0110\u1ed3ng Nai", "bedroom": "2", "bathroom": "2"}
+{"price": "36 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "450 tr/m\u00b2", "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "5"}
+{"price": "16,18 t\u1ef7", "area": "138 m\u00b2", "price_per_m2": "117,24 tr/m\u00b2", "location": "T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "2,25 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "75 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "1", "bathroom": "1"}
+{"price": "2,7 t\u1ef7", "area": "45 m\u00b2", "price_per_m2": "60 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "1", "bathroom": "1"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "200 m\u00b2", "price_per_m2": null, "location": "M\u00ea Linh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "17 t\u1ef7", "area": "65 m\u00b2", "price_per_m2": "261,54 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "8,5 t\u1ef7", "area": "98 m\u00b2", "price_per_m2": "86,74 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "4,5 t\u1ef7", "area": "62 m\u00b2", "price_per_m2": "72,58 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "6 t\u1ef7", "area": "105 m\u00b2", "price_per_m2": "57,14 tr/m\u00b2", "location": "Kim B\u1ea3ng, H\u00e0 Nam", "bedroom": null, "bathroom": null}
+{"price": "4,1 t\u1ef7", "area": "69,2 m\u00b2", "price_per_m2": "59,25 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "14,96 t\u1ef7", "area": "440 m\u00b2", "price_per_m2": "34 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "7,14 t\u1ef7", "area": "62,1 m\u00b2", "price_per_m2": "114,99 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "11,8 t\u1ef7", "area": "88 m\u00b2", "price_per_m2": "134,09 tr/m\u00b2", "location": "T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "5"}
+{"price": "3,58 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "119,33 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "24 t\u1ef7", "area": "3.600 m\u00b2", "price_per_m2": "6,67 tr/m\u00b2", "location": "L\u1ea1c D\u01b0\u01a1ng, L\u00e2m \u0110\u1ed3ng", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "1.373 m\u00b2", "price_per_m2": null, "location": "C\u1ea9m L\u1ec7, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "10,5 t\u1ef7", "area": "160 m\u00b2", "price_per_m2": "65,62 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": null}
+{"price": "21,7 t\u1ef7", "area": "53 m\u00b2", "price_per_m2": "409,43 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "75 m\u00b2", "price_per_m2": null, "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "7,9 t\u1ef7", "area": "102 m\u00b2", "price_per_m2": "77,45 tr/m\u00b2", "location": "T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "15,5 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "103,33 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "1,85 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "12,33 tr/m\u00b2", "location": "B\u1ebfn C\u00e1t, B\u00ecnh D\u01b0\u01a1ng", "bedroom": null, "bathroom": null}
+{"price": "3,5 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "35 tr/m\u00b2", "location": "Ph\u1ed5 Y\u00ean, Th\u00e1i Nguy\u00ean", "bedroom": null, "bathroom": null}
+{"price": "8,2 t\u1ef7", "area": "12.000 m\u00b2", "price_per_m2": "683,33 ngh\u00ecn/m\u00b2", "location": "L\u00e2m H\u00e0, L\u00e2m \u0110\u1ed3ng", "bedroom": null, "bathroom": null}
+{"price": "15,5 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "172,22 tr/m\u00b2", "location": "T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh", "bedroom": "6", "bathroom": "7"}
+{"price": "7,9 t\u1ef7", "area": "36 m\u00b2", "price_per_m2": "219,44 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "420 tri\u1ec7u", "area": "184 m\u00b2", "price_per_m2": "2,28 tr/m\u00b2", "location": "Tr\u1ea3ng B\u00e0ng, T\u00e2y Ninh", "bedroom": null, "bathroom": null}
+{"price": "9,5 t\u1ef7", "area": "47 m\u00b2", "price_per_m2": "202,13 tr/m\u00b2", "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "4"}
+{"price": "6,6 t\u1ef7", "area": "37 m\u00b2", "price_per_m2": "178,38 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "4"}
+{"price": "13,5 t\u1ef7", "area": "101 m\u00b2", "price_per_m2": "133,66 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "5,5 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "78,57 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "10 t\u1ef7", "area": "40 m\u00b2", "price_per_m2": "250 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "5"}
+{"price": "5,95 t\u1ef7", "area": "86 m\u00b2", "price_per_m2": "69,2 tr/m\u00b2", "location": "T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "10,5 t\u1ef7", "area": "323 m\u00b2", "price_per_m2": "32,51 tr/m\u00b2", "location": "Ph\u00fac Y\u00ean, V\u0129nh Ph\u00fac", "bedroom": null, "bathroom": null}
+{"price": "5,81 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "58,12 tr/m\u00b2", "location": "T\u1eeb S\u01a1n, B\u1eafc Ninh", "bedroom": "4", "bathroom": "5"}
+{"price": "11,85 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "197,5 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "10", "bathroom": "10"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "84 m\u00b2", "price_per_m2": null, "location": "Thanh Tr\u00ec, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "5,8 t\u1ef7", "area": "102,4 m\u00b2", "price_per_m2": "56,64 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "11,73 t\u1ef7", "area": "152,3 m\u00b2", "price_per_m2": "77 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "8,35 t\u1ef7", "area": "83,5 m\u00b2", "price_per_m2": "100 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "265 m\u00b2", "price_per_m2": null, "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "8,99 t\u1ef7", "area": "110 m\u00b2", "price_per_m2": "81,73 tr/m\u00b2", "location": "Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "3,1 t\u1ef7", "area": "24 m\u00b2", "price_per_m2": "129,17 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "35 m\u00b2", "price_per_m2": null, "location": "Vi\u1ec7t Tr\u00ec, Ph\u00fa Th\u1ecd", "bedroom": null, "bathroom": null}
+{"price": "3,3 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "55 tr/m\u00b2", "location": "H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng", "bedroom": "2", "bathroom": null}
+{"price": "23 t\u1ef7", "area": "82,5 m\u00b2", "price_per_m2": "278,79 tr/m\u00b2", "location": "Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "2,9 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "41,43 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "13,8 t\u1ef7", "area": "86 m\u00b2", "price_per_m2": "160,46 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "5"}
+{"price": "2,65 t\u1ef7", "area": "66 m\u00b2", "price_per_m2": "40,15 tr/m\u00b2", "location": "An D\u01b0\u01a1ng, H\u1ea3i Ph\u00f2ng", "bedroom": "3", "bathroom": "3"}
+{"price": "4,3 t\u1ef7", "area": "57,3 m\u00b2", "price_per_m2": "75,04 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "8,6 t\u1ef7", "area": "211,9 m\u00b2", "price_per_m2": "40,58 tr/m\u00b2", "location": "Long \u0110i\u1ec1n, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": null, "bathroom": null}
+{"price": "6,5 t\u1ef7", "area": "44 m\u00b2", "price_per_m2": "147,73 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "17 t\u1ef7", "area": "127 m\u00b2", "price_per_m2": "133,86 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "29 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "241,67 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,98 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "24,75 tr/m\u00b2", "location": "C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "390 tri\u1ec7u", "area": "210 m\u00b2", "price_per_m2": "1,86 tr/m\u00b2", "location": "Tr\u1ea3ng B\u00e0ng, T\u00e2y Ninh", "bedroom": null, "bathroom": null}
+{"price": "7 t\u1ef7", "area": "110 m\u00b2", "price_per_m2": "63,64 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "17,9 t\u1ef7", "area": "126 m\u00b2", "price_per_m2": "142,06 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "6"}
+{"price": "15,5 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "103,33 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "2,8 t\u1ef7", "area": "48 m\u00b2", "price_per_m2": "58,33 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "1", "bathroom": "1"}
+{"price": "14,5 t\u1ef7", "area": "40 m\u00b2", "price_per_m2": "362,5 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "9", "bathroom": "7"}
+{"price": "7,75 t\u1ef7", "area": "61 m\u00b2", "price_per_m2": "127,05 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "6,9 t\u1ef7", "area": "190 m\u00b2", "price_per_m2": "36,32 tr/m\u00b2", "location": "\u0110i\u1ec7n B\u00e0n, Qu\u1ea3ng Nam", "bedroom": null, "bathroom": null}
+{"price": "6,98 t\u1ef7", "area": "38 m\u00b2", "price_per_m2": "183,68 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "9,98 t\u1ef7", "area": "99 m\u00b2", "price_per_m2": "100,76 tr/m\u00b2", "location": "H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "60 t\u1ef7", "area": "153 m\u00b2", "price_per_m2": "392,16 tr/m\u00b2", "location": "Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "44,5 t\u1ef7", "area": "128 m\u00b2", "price_per_m2": "347,66 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "56,32 t\u1ef7", "area": "3.520 m\u00b2", "price_per_m2": "16 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": null, "bathroom": null}
+{"price": "1,87 t\u1ef7", "area": "85 m\u00b2", "price_per_m2": "22 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "3"}
+{"price": "2,56 t\u1ef7", "area": "102,5 m\u00b2", "price_per_m2": "25 tr/m\u00b2", "location": "Th\u00e1i Thu\u1ef5, Th\u00e1i B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "65 m\u00b2", "price_per_m2": null, "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "128 m\u00b2", "price_per_m2": null, "location": "Tuy Ph\u01b0\u1edbc, B\u00ecnh \u0110\u1ecbnh", "bedroom": null, "bathroom": null}
+{"price": "3,95 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "43,89 tr/m\u00b2", "location": "C\u1ea9m L\u1ec7, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "2,1 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "14 tr/m\u00b2", "location": "Tam N\u00f4ng, Ph\u00fa Th\u1ecd", "bedroom": null, "bathroom": null}
+{"price": "35 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "636,36 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "4"}
+{"price": "13,2 t\u1ef7", "area": "147 m\u00b2", "price_per_m2": "89,8 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "6,5 t\u1ef7", "area": "41 m\u00b2", "price_per_m2": "158,54 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "7,29 t\u1ef7", "area": "98 m\u00b2", "price_per_m2": "74,39 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "5,6 t\u1ef7", "area": "146 m\u00b2", "price_per_m2": "38,36 tr/m\u00b2", "location": "Th\u1ee7 D\u1ea7u M\u1ed9t, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "3,95 t\u1ef7", "area": "125 m\u00b2", "price_per_m2": "31,6 tr/m\u00b2", "location": "Ph\u00fac Y\u00ean, V\u0129nh Ph\u00fac", "bedroom": "5", "bathroom": "5"}
+{"price": "11 t\u1ef7", "area": "105 m\u00b2", "price_per_m2": "104,76 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "31 t\u1ef7", "area": "56 m\u00b2", "price_per_m2": "553,57 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "7,9 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "109,72 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "8 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "111,11 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "5,9 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "196,67 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "8 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "111,11 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "5,9 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "196,67 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "4"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "74 m\u00b2", "price_per_m2": null, "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "18 t\u1ef7", "area": "109 m\u00b2", "price_per_m2": "165,14 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "13 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "130 tr/m\u00b2", "location": "T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh", "bedroom": "6", "bathroom": "6"}
+{"price": "6,2 t\u1ef7", "area": "45 m\u00b2", "price_per_m2": "137,78 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "51 m\u00b2", "price_per_m2": null, "location": "B\u1ebfn L\u1ee9c, Long An", "bedroom": "2", "bathroom": "1"}
+{"price": "37,9 t\u1ef7", "area": "200 m\u00b2", "price_per_m2": "189,5 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "22", "bathroom": "23"}
+{"price": "357 t\u1ef7", "area": "595 m\u00b2", "price_per_m2": "600 tr/m\u00b2", "location": "Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh", "bedroom": "15", "bathroom": "15"}
+{"price": "6,4 t\u1ef7", "area": "57 m\u00b2", "price_per_m2": "112,28 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "9 t\u1ef7", "area": "97,3 m\u00b2", "price_per_m2": "92,5 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "8,6 t\u1ef7", "area": "89 m\u00b2", "price_per_m2": "96,63 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "19,2 t\u1ef7", "area": "107,5 m\u00b2", "price_per_m2": "178,6 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "6"}
+{"price": "4 t\u1ef7", "area": "560 m\u00b2", "price_per_m2": "7,14 tr/m\u00b2", "location": "C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "9,5 t\u1ef7", "area": "68 m\u00b2", "price_per_m2": "139,71 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,5 t\u1ef7", "area": "1.000 m\u00b2", "price_per_m2": "1,5 tr/m\u00b2", "location": "B\u1ea3o L\u00e2m, L\u00e2m \u0110\u1ed3ng", "bedroom": "1", "bathroom": "1"}
+{"price": "6,9 t\u1ef7", "area": "42 m\u00b2", "price_per_m2": "164,29 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "8,81 t\u1ef7", "area": "107,4 m\u00b2", "price_per_m2": "82 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "1,5 t\u1ef7", "area": "1.000 m\u00b2", "price_per_m2": "1,5 tr/m\u00b2", "location": "B\u1ea3o L\u00e2m, L\u00e2m \u0110\u1ed3ng", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "180 m\u00b2", "price_per_m2": null, "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "60 t\u1ef7", "area": "300 m\u00b2", "price_per_m2": "200 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "4", "bathroom": "4"}
+{"price": "5,2 t\u1ef7", "area": "111 m\u00b2", "price_per_m2": "46,85 tr/m\u00b2", "location": "B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "4,98 t\u1ef7", "area": "36 m\u00b2", "price_per_m2": "138,33 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "6,68 t\u1ef7", "area": "33 m\u00b2", "price_per_m2": "202,42 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "22 t\u1ef7", "area": "63 m\u00b2", "price_per_m2": "349,21 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "8"}
+{"price": "9,5 t\u1ef7", "area": "500 m\u00b2", "price_per_m2": "19 tr/m\u00b2", "location": "Nh\u01a1n Tr\u1ea1ch, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "2,98 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "49,67 tr/m\u00b2", "location": "Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "150 m\u00b2", "price_per_m2": null, "location": "B\u00e0u B\u00e0ng, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "6", "bathroom": "6"}
+{"price": "33,9 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "282,5 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "31", "bathroom": "31"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "50 m\u00b2", "price_per_m2": null, "location": "Th\u1ea1ch Th\u1ea5t, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "67,5 t\u1ef7", "area": "144 m\u00b2", "price_per_m2": "468,75 tr/m\u00b2", "location": "Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "62 m\u00b2", "price_per_m2": null, "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "6"}
+{"price": "8,5 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "56,67 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "3", "bathroom": "3"}
+{"price": "10,6 t\u1ef7", "area": "180 m\u00b2", "price_per_m2": "58,89 tr/m\u00b2", "location": "T\u1eeb S\u01a1n, B\u1eafc Ninh", "bedroom": "5", "bathroom": "4"}
+{"price": "2,9 t\u1ef7", "area": "68 m\u00b2", "price_per_m2": "42,65 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "7,5 t\u1ef7", "area": "50 m\u00b2", "price_per_m2": "150 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "15,8 t\u1ef7", "area": "280 m\u00b2", "price_per_m2": "56,43 tr/m\u00b2", "location": "Thanh Kh\u00ea, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "4 t\u1ef7", "area": "87 m\u00b2", "price_per_m2": "45,98 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "470 tri\u1ec7u", "area": "141,1 m\u00b2", "price_per_m2": "3,33 tr/m\u00b2", "location": "Ninh H\u00f2a, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "1,6 t\u1ef7", "area": "28 m\u00b2", "price_per_m2": "57,14 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "1"}
+{"price": "7,1 t\u1ef7", "area": "82 m\u00b2", "price_per_m2": "86,58 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "4,1 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "58,57 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "11,9 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "198,33 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "17 t\u1ef7", "area": "860 m\u00b2", "price_per_m2": "19,77 tr/m\u00b2", "location": "B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "1,3 t\u1ef7", "area": "30,07 m\u00b2", "price_per_m2": "43,23 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "1"}
+{"price": "6,5 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "118,18 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "1,72 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "22,93 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "22 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "366,67 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "6"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "56 m\u00b2", "price_per_m2": null, "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "22,5 t\u1ef7", "area": "73 m\u00b2", "price_per_m2": "308,22 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": "22", "bathroom": "22"}
+{"price": "5,78 t\u1ef7", "area": "40,5 m\u00b2", "price_per_m2": "142,72 tr/m\u00b2", "location": "Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "21 t\u1ef7", "area": "82 m\u00b2", "price_per_m2": "256,1 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "14", "bathroom": "14"}
+{"price": "1,55 t\u1ef7", "area": "81 m\u00b2", "price_per_m2": "19,14 tr/m\u00b2", "location": "Giao Th\u1ee7y, Nam \u0110\u1ecbnh", "bedroom": null, "bathroom": null}
+{"price": "2,8 t\u1ef7", "area": "212 m\u00b2", "price_per_m2": "13,21 tr/m\u00b2", "location": "Cam L\u00e2m, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "50 m\u00b2", "price_per_m2": null, "location": "B\u1ebfn L\u1ee9c, Long An", "bedroom": "2", "bathroom": "2"}
+{"price": "1,84 t\u1ef7", "area": "108 m\u00b2", "price_per_m2": "17 tr/m\u00b2", "location": "Th\u1ee7 Th\u1eeba, Long An", "bedroom": null, "bathroom": null}
+{"price": "4,65 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "62 tr/m\u00b2", "location": "M\u00ea Linh, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "3,03 t\u1ef7", "area": "157 m\u00b2", "price_per_m2": "19,3 tr/m\u00b2", "location": "Th\u1ee7 Th\u1eeba, Long An", "bedroom": null, "bathroom": null}
+{"price": "11,46 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "127,33 tr/m\u00b2", "location": "Th\u1ee7y Nguy\u00ean, H\u1ea3i Ph\u00f2ng", "bedroom": null, "bathroom": null}
+{"price": "29,9 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "398,67 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "7", "bathroom": "7"}
+{"price": "4,56 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "152 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "250 m\u00b2", "price_per_m2": null, "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "10,7 t\u1ef7", "area": "114 m\u00b2", "price_per_m2": "93,86 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "15,5 t\u1ef7", "area": "214 m\u00b2", "price_per_m2": "72,43 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "14", "bathroom": "14"}
+{"price": "4,9 t\u1ef7", "area": "140 m\u00b2", "price_per_m2": "35 tr/m\u00b2", "location": "Qu\u1ed1c Oai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "5,06 t\u1ef7", "area": "46 m\u00b2", "price_per_m2": "110 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "5"}
+{"price": "19,2 t\u1ef7", "area": "71 m\u00b2", "price_per_m2": "270,42 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "4"}
+{"price": "2 t\u1ef7", "area": "204 m\u00b2", "price_per_m2": "9,8 tr/m\u00b2", "location": "Qu\u1ed1c Oai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2,4 t\u1ef7", "area": "142 m\u00b2", "price_per_m2": "16,9 tr/m\u00b2", "location": "Qu\u1ea3ng Ng\u00e3i, Qu\u1ea3ng Ng\u00e3i", "bedroom": null, "bathroom": null}
+{"price": "6,3 t\u1ef7", "area": "34 m\u00b2", "price_per_m2": "185,29 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "4"}
+{"price": "17,8 t\u1ef7", "area": "73 m\u00b2", "price_per_m2": "243,84 tr/m\u00b2", "location": "Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "4"}
+{"price": "20 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "166,67 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "3", "bathroom": "3"}
+{"price": "2,3 t\u1ef7", "area": "44 m\u00b2", "price_per_m2": "52,27 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "9,2 t\u1ef7", "area": "133 m\u00b2", "price_per_m2": "69,17 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "5,5 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "68,75 tr/m\u00b2", "location": "Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "3,5 t\u1ef7", "area": "156 m\u00b2", "price_per_m2": "22,44 tr/m\u00b2", "location": "Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai", "bedroom": "3", "bathroom": "2"}
+{"price": "1,85 t\u1ef7", "area": "62 m\u00b2", "price_per_m2": "29,84 tr/m\u00b2", "location": "Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "8,8 t\u1ef7", "area": "44 m\u00b2", "price_per_m2": "200 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": null}
+{"price": "30 t\u1ef7", "area": "257 m\u00b2", "price_per_m2": "116,73 tr/m\u00b2", "location": "Thanh H\u00f3a, Thanh H\u00f3a", "bedroom": "30", "bathroom": null}
+{"price": "1,99 t\u1ef7", "area": "154 m\u00b2", "price_per_m2": "12,92 tr/m\u00b2", "location": "Qu\u1ed1c Oai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,99 t\u1ef7", "area": "154 m\u00b2", "price_per_m2": "12,92 tr/m\u00b2", "location": "Qu\u1ed1c Oai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "8,3 t\u1ef7", "area": "225 m\u00b2", "price_per_m2": "36,89 tr/m\u00b2", "location": "B\u1ebfn L\u1ee9c, Long An", "bedroom": "4", "bathroom": "3"}
+{"price": "3,5 t\u1ef7", "area": "132 m\u00b2", "price_per_m2": "26,52 tr/m\u00b2", "location": "Qu\u1ed1c Oai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,5 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "18,75 tr/m\u00b2", "location": "Nghi S\u01a1n, Thanh H\u00f3a", "bedroom": null, "bathroom": null}
+{"price": "1,4 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "9,33 tr/m\u00b2", "location": "N\u00fai Th\u00e0nh, Qu\u1ea3ng Nam", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "60 m\u00b2", "price_per_m2": null, "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "25 t\u1ef7", "area": "320 m\u00b2", "price_per_m2": "78,12 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "7", "bathroom": "7"}
+{"price": "15 t\u1ef7", "area": "110 m\u00b2", "price_per_m2": "136,36 tr/m\u00b2", "location": "B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh", "bedroom": "6", "bathroom": "7"}
+{"price": "8,4 t\u1ef7", "area": "128 m\u00b2", "price_per_m2": "65,62 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "48 t\u1ef7", "area": "95 m\u00b2", "price_per_m2": "505,26 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "6 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "66,67 tr/m\u00b2", "location": "B\u1ebfn L\u1ee9c, Long An", "bedroom": null, "bathroom": null}
+{"price": "3 t\u1ef7", "area": "43 m\u00b2", "price_per_m2": "69,77 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "1"}
+{"price": "3 t\u1ef7", "area": "96 m\u00b2", "price_per_m2": "31,2 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": null, "bathroom": null}
+{"price": "15,9 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "289,09 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "5"}
+{"price": "12,6 t\u1ef7", "area": "181 m\u00b2", "price_per_m2": "69,61 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "6,95 t\u1ef7", "area": "64 m\u00b2", "price_per_m2": "108,59 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "6,49 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "64,9 tr/m\u00b2", "location": "Li\u00ean Chi\u1ec3u, \u0110\u00e0 N\u1eb5ng", "bedroom": "4", "bathroom": "4"}
+{"price": "16,5 t\u1ef7", "area": "219,5 m\u00b2", "price_per_m2": "75,17 tr/m\u00b2", "location": "Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "4"}
+{"price": "9,1 t\u1ef7", "area": "260 m\u00b2", "price_per_m2": "35 tr/m\u00b2", "location": "Thu\u1eadn Th\u00e0nh, B\u1eafc Ninh", "bedroom": null, "bathroom": null}
+{"price": "7 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "77,78 tr/m\u00b2", "location": "M\u00f3ng C\u00e1i, Qu\u1ea3ng Ninh", "bedroom": null, "bathroom": null}
+{"price": "31,5 t\u1ef7", "area": "130 m\u00b2", "price_per_m2": "242,31 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "46 m\u00b2", "price_per_m2": null, "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "1"}
+{"price": "7,8 t\u1ef7", "area": "181 m\u00b2", "price_per_m2": "43,09 tr/m\u00b2", "location": "Th\u1ee7 D\u1ea7u M\u1ed9t, B\u00ecnh D\u01b0\u01a1ng", "bedroom": null, "bathroom": null}
+{"price": "30,8 t\u1ef7", "area": "59 m\u00b2", "price_per_m2": "522,03 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "38 t\u1ef7", "area": "146 m\u00b2", "price_per_m2": "260,27 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "142 m\u00b2", "price_per_m2": null, "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "4,2 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "58,33 tr/m\u00b2", "location": "Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "7,3 t\u1ef7", "area": "32 m\u00b2", "price_per_m2": "228,12 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "25 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "333,33 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "63 m\u00b2", "price_per_m2": null, "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "2", "bathroom": "2"}
+{"price": "4,85 t\u1ef7", "area": "98,6 m\u00b2", "price_per_m2": "49,19 tr/m\u00b2", "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "16,5 t\u1ef7", "area": "54 m\u00b2", "price_per_m2": "305,56 tr/m\u00b2", "location": "\u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "2,2 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "14,67 tr/m\u00b2", "location": "Th\u1ea1ch Th\u1ea5t, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,78 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "32,36 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "1,84 t\u1ef7", "area": "115 m\u00b2", "price_per_m2": "16 tr/m\u00b2", "location": "S\u01a1n T\u00e2y, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2,5 t\u1ef7", "area": "18 m\u00b2", "price_per_m2": "138,89 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "66 m\u00b2", "price_per_m2": null, "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "2,3 t\u1ef7", "area": "295 m\u00b2", "price_per_m2": "7,8 tr/m\u00b2", "location": "Th\u1ea1ch Th\u1ea5t, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "28,88 t\u1ef7", "area": "109 m\u00b2", "price_per_m2": "265 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2,58 t\u1ef7", "area": "70,8 m\u00b2", "price_per_m2": "36,37 tr/m\u00b2", "location": "L\u00ea Ch\u00e2n, H\u1ea3i Ph\u00f2ng", "bedroom": "2", "bathroom": "2"}
+{"price": "23,5 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "195,83 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,89 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "21 tr/m\u00b2", "location": "H\u1ea1 Long, Qu\u1ea3ng Ninh", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "65 m\u00b2", "price_per_m2": null, "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "2", "bathroom": "2"}
+{"price": "14,8 t\u1ef7", "area": "118 m\u00b2", "price_per_m2": "125,42 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "3,6 t\u1ef7", "area": "476 m\u00b2", "price_per_m2": "7,56 tr/m\u00b2", "location": "Thanh Th\u1ee7y, Ph\u00fa Th\u1ecd", "bedroom": null, "bathroom": null}
+{"price": "2 t\u1ef7", "area": "21.951,2 m\u00b2", "price_per_m2": "91,11 ngh\u00ecn/m\u00b2", "location": "H\u00e0m Thu\u1eadn B\u1eafc, B\u00ecnh Thu\u1eadn", "bedroom": null, "bathroom": null}
+{"price": "4,45 t\u1ef7", "area": "68 m\u00b2", "price_per_m2": "65,44 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "2,65 t\u1ef7", "area": "56 m\u00b2", "price_per_m2": "47,32 tr/m\u00b2", "location": "B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "81 t\u1ef7", "area": "226,1 m\u00b2", "price_per_m2": "358,25 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "15", "bathroom": "10"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "100 m\u00b2", "price_per_m2": null, "location": "L\u01b0\u01a1ng S\u01a1n, H\u00f2a B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "25 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "333,33 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "6,87 t\u1ef7", "area": "137 m\u00b2", "price_per_m2": "50,15 tr/m\u00b2", "location": "Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai", "bedroom": "4", "bathroom": "4"}
+{"price": "4,3 t\u1ef7", "area": "62,9 m\u00b2", "price_per_m2": "68,36 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "1"}
+{"price": "5,8 t\u1ef7", "area": "65 m\u00b2", "price_per_m2": "89,23 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "5,75 t\u1ef7", "area": "26 m\u00b2", "price_per_m2": "221,15 tr/m\u00b2", "location": "Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "4,7 t\u1ef7", "area": "81,5 m\u00b2", "price_per_m2": "57,67 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": null}
+{"price": "650 tri\u1ec7u", "area": "250 m\u00b2", "price_per_m2": "2,6 tr/m\u00b2", "location": "Ch\u01a1n Th\u00e0nh, B\u00ecnh Ph\u01b0\u1edbc", "bedroom": null, "bathroom": null}
+{"price": "5,15 t\u1ef7", "area": "79 m\u00b2", "price_per_m2": "65,19 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "55 t\u1ef7", "area": "450 m\u00b2", "price_per_m2": "122,22 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "5,2 t\u1ef7", "area": "45 m\u00b2", "price_per_m2": "115,56 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": null}
+{"price": "5,2 t\u1ef7", "area": "45 m\u00b2", "price_per_m2": "115,56 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": null}
+{"price": "44 t\u1ef7", "area": "268 m\u00b2", "price_per_m2": "164,18 tr/m\u00b2", "location": "B\u1eafc T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "5"}
+{"price": "6,8 t\u1ef7", "area": "65 m\u00b2", "price_per_m2": "104,62 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "590 tri\u1ec7u", "area": "469 m\u00b2", "price_per_m2": "1,26 tr/m\u00b2", "location": "L\u00e2m H\u00e0, L\u00e2m \u0110\u1ed3ng", "bedroom": null, "bathroom": null}
+{"price": "9,9 t\u1ef7", "area": "53 m\u00b2", "price_per_m2": "186,79 tr/m\u00b2", "location": "Hai B\u00e0 Tr\u01b0ng, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "3,17 t\u1ef7", "area": "318 m\u00b2", "price_per_m2": "9,95 tr/m\u00b2", "location": "S\u00f3c Tr\u0103ng, S\u00f3c Tr\u0103ng", "bedroom": null, "bathroom": null}
+{"price": "19,8 t\u1ef7", "area": "65 m\u00b2", "price_per_m2": "304,62 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "1,3 t\u1ef7", "area": "125 m\u00b2", "price_per_m2": "10,4 tr/m\u00b2", "location": "B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "10", "bathroom": "10"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "65 m\u00b2", "price_per_m2": null, "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "2", "bathroom": "1"}
+{"price": "35 t\u1ef7", "area": "208 m\u00b2", "price_per_m2": "168,27 tr/m\u00b2", "location": "Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "1,3 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "8,67 tr/m\u00b2", "location": "C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "68 t\u1ef7", "area": "140 m\u00b2", "price_per_m2": "485,71 tr/m\u00b2", "location": "Sa Pa, L\u00e0o Cai", "bedroom": null, "bathroom": null}
+{"price": "3,9 t\u1ef7", "area": "130 m\u00b2", "price_per_m2": "30 tr/m\u00b2", "location": "Ti\u1ec1n H\u1ea3i, Th\u00e1i B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "7,2 t\u1ef7", "area": "87,5 m\u00b2", "price_per_m2": "82,29 tr/m\u00b2", "location": "L\u00ea Ch\u00e2n, H\u1ea3i Ph\u00f2ng", "bedroom": "4", "bathroom": "4"}
+{"price": "7,7 t\u1ef7", "area": "104 m\u00b2", "price_per_m2": "74,04 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "5"}
+{"price": "2,44 t\u1ef7", "area": "76,1 m\u00b2", "price_per_m2": "32 tr/m\u00b2", "location": "Th\u00e1i B\u00ecnh, Th\u00e1i B\u00ecnh", "bedroom": "2", "bathroom": "2"}
+{"price": "3,8 t\u1ef7", "area": "78 m\u00b2", "price_per_m2": "48,72 tr/m\u00b2", "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "10 t\u1ef7", "area": "155,5 m\u00b2", "price_per_m2": "64,31 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "10 t\u1ef7", "area": "140 m\u00b2", "price_per_m2": "71,43 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "12,9 t\u1ef7", "area": "130 m\u00b2", "price_per_m2": "99,23 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": "9", "bathroom": "9"}
+{"price": "4,5 t\u1ef7", "area": "68 m\u00b2", "price_per_m2": "66,18 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "1"}
+{"price": "1,65 t\u1ef7", "area": "31,6 m\u00b2", "price_per_m2": "52,22 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "1"}
+{"price": "3,99 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "76,73 tr/m\u00b2", "location": "Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "3,6 t\u1ef7", "area": "555 m\u00b2", "price_per_m2": "6,49 tr/m\u00b2", "location": "L\u01b0\u01a1ng S\u01a1n, H\u00f2a B\u00ecnh", "bedroom": null, "bathroom": null}
+{"price": "5,9 t\u1ef7", "area": "128 m\u00b2", "price_per_m2": "46,09 tr/m\u00b2", "location": "Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "2,49 t\u1ef7", "area": "40 m\u00b2", "price_per_m2": "62,25 tr/m\u00b2", "location": "Thanh Kh\u00ea, \u0110\u00e0 N\u1eb5ng", "bedroom": "3", "bathroom": "2"}
+{"price": "1,69 t\u1ef7", "area": "71,8 m\u00b2", "price_per_m2": "23,54 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": "3", "bathroom": "2"}
+{"price": "11,5 t\u1ef7", "area": "75 m\u00b2", "price_per_m2": "153,33 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "9 t\u1ef7", "area": "54 m\u00b2", "price_per_m2": "166,67 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "7,6 t\u1ef7", "area": "117 m\u00b2", "price_per_m2": "64,96 tr/m\u00b2", "location": "Qu\u1eadn 4, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "10,5 t\u1ef7", "area": "98 m\u00b2", "price_per_m2": "107,14 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": null, "bathroom": null}
+{"price": "2 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "20 tr/m\u00b2", "location": "Ph\u00f9 C\u00e1t, B\u00ecnh \u0110\u1ecbnh", "bedroom": null, "bathroom": null}
+{"price": "3,36 t\u1ef7", "area": "48 m\u00b2", "price_per_m2": "70 tr/m\u00b2", "location": "\u0110an Ph\u01b0\u1ee3ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "2,02 t\u1ef7", "area": "135 m\u00b2", "price_per_m2": "15 tr/m\u00b2", "location": "Ho\u1eb1ng H\u00f3a, Thanh H\u00f3a", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "965 m\u00b2", "price_per_m2": null, "location": "Tam \u0110\u1ea3o, V\u0129nh Ph\u00fac", "bedroom": null, "bathroom": null}
+{"price": "43 t\u1ef7", "area": "175 m\u00b2", "price_per_m2": "245,71 tr/m\u00b2", "location": "T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "4,45 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "127,14 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "3"}
+{"price": "23 t\u1ef7", "area": "177 m\u00b2", "price_per_m2": "129,94 tr/m\u00b2", "location": "Qu\u1eadn 4, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "4,5 t\u1ef7", "area": "81 m\u00b2", "price_per_m2": "55,56 tr/m\u00b2", "location": "Qu\u1eadn 4, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "13,5 t\u1ef7", "area": "68 m\u00b2", "price_per_m2": "198,53 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "4,6 t\u1ef7", "area": "31 m\u00b2", "price_per_m2": "148,39 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "5,7 t\u1ef7", "area": "32,4 m\u00b2", "price_per_m2": "175,93 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "4,3 t\u1ef7", "area": "30 m\u00b2", "price_per_m2": "143,33 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "25,5 t\u1ef7", "area": "108 m\u00b2", "price_per_m2": "236,11 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "69 t\u1ef7", "area": "398 m\u00b2", "price_per_m2": "173,37 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "7,7 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "85,56 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "85 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "5,5 t\u1ef7", "area": "2.282 m\u00b2", "price_per_m2": "2,41 tr/m\u00b2", "location": "L\u01b0\u01a1ng S\u01a1n, H\u00f2a B\u00ecnh", "bedroom": "1", "bathroom": "1"}
+{"price": "44,2 t\u1ef7", "area": "260 m\u00b2", "price_per_m2": "170 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "8,7 t\u1ef7", "area": "60,7 m\u00b2", "price_per_m2": "143,33 tr/m\u00b2", "location": "B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "6"}
+{"price": "6,8 t\u1ef7", "area": "54 m\u00b2", "price_per_m2": "125,93 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": null}
+{"price": "10,5 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "87,5 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "6", "bathroom": "6"}
+{"price": "2,75 t\u1ef7", "area": "52 m\u00b2", "price_per_m2": "52,88 tr/m\u00b2", "location": "Gia L\u00e2m, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "115 m\u00b2", "price_per_m2": null, "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "22 t\u1ef7", "area": "165 m\u00b2", "price_per_m2": "133,33 tr/m\u00b2", "location": "Ph\u00fa Qu\u1ed1c, Ki\u00ean Giang", "bedroom": null, "bathroom": null}
+{"price": "1,23 t\u1ef7", "area": "35 m\u00b2", "price_per_m2": "35 tr/m\u00b2", "location": "Vi\u1ec7t Tr\u00ec, Ph\u00fa Th\u1ecd", "bedroom": "1", "bathroom": "1"}
+{"price": "2,72 t\u1ef7", "area": "69 m\u00b2", "price_per_m2": "39,48 tr/m\u00b2", "location": "Th\u1ee7 D\u1ea7u M\u1ed9t, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "3,06 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "42,5 tr/m\u00b2", "location": "V\u0169ng T\u00e0u, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": "2", "bathroom": "2"}
+{"price": "1,55 t\u1ef7", "area": "37 m\u00b2", "price_per_m2": "41,89 tr/m\u00b2", "location": "Th\u1ea1ch Th\u1ea5t, H\u00e0 N\u1ed9i", "bedroom": "1", "bathroom": "1"}
+{"price": "3,2 t\u1ef7", "area": "198 m\u00b2", "price_per_m2": "16,16 tr/m\u00b2", "location": "C\u00e1i R\u0103ng, C\u1ea7n Th\u01a1", "bedroom": "3", "bathroom": "2"}
+{"price": "3,6 t\u1ef7", "area": "86 m\u00b2", "price_per_m2": "41,86 tr/m\u00b2", "location": "Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "19,2 t\u1ef7", "area": "160 m\u00b2", "price_per_m2": "120 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "1,1 t\u1ef7", "area": "87,5 m\u00b2", "price_per_m2": "12,57 tr/m\u00b2", "location": "S\u00f4ng C\u00f4ng, Th\u00e1i Nguy\u00ean", "bedroom": null, "bathroom": null}
+{"price": "7,8 t\u1ef7", "area": "200 m\u00b2", "price_per_m2": "39 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "30,4 t\u1ef7", "area": "160 m\u00b2", "price_per_m2": "190 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "800 tri\u1ec7u", "area": "100 m\u00b2", "price_per_m2": "8 tr/m\u00b2", "location": "Ho\u1eb1ng H\u00f3a, Thanh H\u00f3a", "bedroom": null, "bathroom": null}
+{"price": "1,75 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "11,67 tr/m\u00b2", "location": "\u0110\u1ea5t \u0110\u1ecf, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": null, "bathroom": null}
+{"price": "12,5 t\u1ef7", "area": "165 m\u00b2", "price_per_m2": "75,76 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "6,4 t\u1ef7", "area": "104 m\u00b2", "price_per_m2": "61,54 tr/m\u00b2", "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "18 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "120 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "1,78 t\u1ef7", "area": "51 m\u00b2", "price_per_m2": "34,9 tr/m\u00b2", "location": "D\u0129 An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "31,5 t\u1ef7", "area": "169 m\u00b2", "price_per_m2": "186,39 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "6", "bathroom": "5"}
+{"price": "3,3 t\u1ef7", "area": "54 m\u00b2", "price_per_m2": "61,11 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "22 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "146,67 tr/m\u00b2", "location": "T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh", "bedroom": "4", "bathroom": "4"}
+{"price": "3,89 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "48,6 tr/m\u00b2", "location": "Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "69 t\u1ef7", "area": "478 m\u00b2", "price_per_m2": "144,35 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "5", "bathroom": "5"}
+{"price": "42 t\u1ef7", "area": "181 m\u00b2", "price_per_m2": "232,04 tr/m\u00b2", "location": "Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "5"}
+{"price": "4,36 t\u1ef7", "area": "82 m\u00b2", "price_per_m2": "53,17 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "3", "bathroom": "3"}
+{"price": "7,5 t\u1ef7", "area": "94 m\u00b2", "price_per_m2": "79,79 tr/m\u00b2", "location": "Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "7 t\u1ef7", "area": "57 m\u00b2", "price_per_m2": "122,81 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "14 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "140 tr/m\u00b2", "location": "Qu\u1eadn 2, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "4,8 t\u1ef7", "area": "32 m\u00b2", "price_per_m2": "150 tr/m\u00b2", "location": "Long Bi\u00ean, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "3"}
+{"price": "2,48 t\u1ef7", "area": "40 m\u00b2", "price_per_m2": "62 tr/m\u00b2", "location": "Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "3"}
+{"price": "3,25 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "46,43 tr/m\u00b2", "location": "H\u00e0 \u0110\u00f4ng, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "4,99 t\u1ef7", "area": "74 m\u00b2", "price_per_m2": "67,43 tr/m\u00b2", "location": "Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
+{"price": "6 t\u1ef7", "area": "72 m\u00b2", "price_per_m2": "83,33 tr/m\u00b2", "location": "Thanh Xu\u00e2n, H\u00e0 N\u1ed9i", "bedroom": "2", "bathroom": "2"}
+{"price": "1,5 t\u1ef7", "area": "37 m\u00b2", "price_per_m2": "40,54 tr/m\u00b2", "location": "Th\u1ea1ch Th\u1ea5t, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "1,56 t\u1ef7", "area": "40 m\u00b2", "price_per_m2": "39 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": "1", "bathroom": "1"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "112 m\u00b2", "price_per_m2": null, "location": "B\u1eafc Giang, B\u1eafc Giang", "bedroom": null, "bathroom": null}
+{"price": "25,2 t\u1ef7", "area": "280 m\u00b2", "price_per_m2": "90 tr/m\u00b2", "location": "Ho\u00e0i \u0110\u1ee9c, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "4,8 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "48 tr/m\u00b2", "location": "C\u1ea9m L\u1ec7, \u0110\u00e0 N\u1eb5ng", "bedroom": "7", "bathroom": "7"}
+{"price": "1,67 t\u1ef7", "area": "67 m\u00b2", "price_per_m2": "24,92 tr/m\u00b2", "location": "Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng", "bedroom": "2", "bathroom": "2"}
+{"price": "12,7 t\u1ef7", "area": "168,5 m\u00b2", "price_per_m2": "75,37 tr/m\u00b2", "location": "Nha Trang, Kh\u00e1nh H\u00f2a", "bedroom": null, "bathroom": null}
+{"price": "3,7 t\u1ef7", "area": "85 m\u00b2", "price_per_m2": "43,53 tr/m\u00b2", "location": "Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh", "bedroom": "3", "bathroom": "2"}
+{"price": "600 tri\u1ec7u", "area": "200 m\u00b2", "price_per_m2": "3 tr/m\u00b2", "location": "V\u00e2n Canh, B\u00ecnh \u0110\u1ecbnh", "bedroom": null, "bathroom": null}
+{"price": "2,6 t\u1ef7", "area": "80 m\u00b2", "price_per_m2": "32,5 tr/m\u00b2", "location": "Tuy Ph\u01b0\u1edbc, B\u00ecnh \u0110\u1ecbnh", "bedroom": null, "bathroom": null}
+{"price": "1,21 t\u1ef7", "area": "30,3 m\u00b2", "price_per_m2": "39,9 tr/m\u00b2", "location": "L\u00ea Ch\u00e2n, H\u1ea3i Ph\u00f2ng", "bedroom": "1", "bathroom": "1"}
+{"price": "2,25 t\u1ef7", "area": "59 m\u00b2", "price_per_m2": "38,14 tr/m\u00b2", "location": "Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "1"}
+{"price": "2,2 t\u1ef7", "area": "65 m\u00b2", "price_per_m2": "33,85 tr/m\u00b2", "location": "Th\u1ea1ch Th\u1ea5t, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "47 t\u1ef7", "area": "150 m\u00b2", "price_per_m2": "313,33 tr/m\u00b2", "location": "Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "10,42 t\u1ef7", "area": "69 m\u00b2", "price_per_m2": "151 tr/m\u00b2", "location": "\u0110an Ph\u01b0\u1ee3ng, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "36 t\u1ef7", "area": "2.800 m\u00b2", "price_per_m2": "12,86 tr/m\u00b2", "location": "Xuy\u00ean M\u1ed9c, B\u00e0 R\u1ecba V\u0169ng T\u00e0u", "bedroom": null, "bathroom": null}
+{"price": "9,5 t\u1ef7", "area": "200 m\u00b2", "price_per_m2": "47,5 tr/m\u00b2", "location": "Ng\u0169 H\u00e0nh S\u01a1n, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "23 t\u1ef7", "area": "145 m\u00b2", "price_per_m2": "158,62 tr/m\u00b2", "location": "T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i", "bedroom": "3", "bathroom": "2"}
+{"price": "Gi\u00e1 th\u1ecfa thu\u1eadn", "area": "200 m\u00b2", "price_per_m2": null, "location": "M\u1ed9c Ch\u00e2u, S\u01a1n La", "bedroom": null, "bathroom": null}
+{"price": "4,3 t\u1ef7", "area": "79 m\u00b2", "price_per_m2": "54,43 tr/m\u00b2", "location": "V\u0103n Giang, H\u01b0ng Y\u00ean", "bedroom": "3", "bathroom": "2"}
+{"price": "3,2 t\u1ef7", "area": "110 m\u00b2", "price_per_m2": "29,09 tr/m\u00b2", "location": "Th\u1ea1ch Th\u1ea5t, H\u00e0 N\u1ed9i", "bedroom": null, "bathroom": null}
+{"price": "31,11 t\u1ef7", "area": "63 m\u00b2", "price_per_m2": "493,84 tr/m\u00b2", "location": "\u0110\u00f4ng Anh, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "4"}
+{"price": "19,8 t\u1ef7", "area": "327 m\u00b2", "price_per_m2": "60,55 tr/m\u00b2", "location": "S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng", "bedroom": null, "bathroom": null}
+{"price": "2,8 t\u1ef7", "area": "70 m\u00b2", "price_per_m2": "40 tr/m\u00b2", "location": "B\u1eafc Giang, B\u1eafc Giang", "bedroom": "2", "bathroom": "2"}
+{"price": "12,5 t\u1ef7", "area": "120 m\u00b2", "price_per_m2": "104,17 tr/m\u00b2", "location": "H\u1ea3i Ch\u00e2u, \u0110\u00e0 N\u1eb5ng", "bedroom": "5", "bathroom": "7"}
+{"price": "42 t\u1ef7", "area": "99 m\u00b2", "price_per_m2": "424,24 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "5", "bathroom": "5"}
+{"price": "857,25 tri\u1ec7u", "area": "114,3 m\u00b2", "price_per_m2": "7,5 tr/m\u00b2", "location": "Th\u00e1i Nguy\u00ean, Th\u00e1i Nguy\u00ean", "bedroom": null, "bathroom": null}
+{"price": "16 t\u1ef7", "area": "60 m\u00b2", "price_per_m2": "266,67 tr/m\u00b2", "location": "Ho\u00e0ng Mai, H\u00e0 N\u1ed9i", "bedroom": "4", "bathroom": "5"}
+{"price": "1,75 t\u1ef7", "area": "140 m\u00b2", "price_per_m2": "12,5 tr/m\u00b2", "location": "Nh\u01a1n Tr\u1ea1ch, \u0110\u1ed3ng Nai", "bedroom": null, "bathroom": null}
+{"price": "3,1 t\u1ef7", "area": "67,5 m\u00b2", "price_per_m2": "45,93 tr/m\u00b2", "location": "B\u1eafc Giang, B\u1eafc Giang", "bedroom": null, "bathroom": null}
+{"price": "16 t\u1ef7", "area": "55 m\u00b2", "price_per_m2": "290,91 tr/m\u00b2", "location": "C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i", "bedroom": "6", "bathroom": "4"}
+{"price": "11 t\u1ef7", "area": "100 m\u00b2", "price_per_m2": "110 tr/m\u00b2", "location": "G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "20 t\u1ef7", "area": "404,8 m\u00b2", "price_per_m2": "49,41 tr/m\u00b2", "location": "H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh", "bedroom": null, "bathroom": null}
+{"price": "6,5 t\u1ef7", "area": "90 m\u00b2", "price_per_m2": "72,22 tr/m\u00b2", "location": "Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh", "bedroom": "2", "bathroom": "2"}
