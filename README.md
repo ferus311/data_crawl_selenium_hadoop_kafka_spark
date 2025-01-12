@@ -69,3 +69,6 @@ namenode : localhost:9000
 ### thao tac voi dfs
 
 -   bin/hdfs dfs -ls (-mkdir) /...
+
+
+/home/data/gr2/venv/bin/python3.11 /home/data/gr2/kafka_spark/json/con_ver2.py

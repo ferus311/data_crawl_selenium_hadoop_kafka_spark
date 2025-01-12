@@ -3,3 +3,27 @@
 2024-12-20 16:11:42 - Error on page 133: HTTPConnectionPool(host='localhost', port=35345): Read timed out. (read timeout=120)
 2024-12-20 16:13:47 - Error on page 133: HTTPConnectionPool(host='localhost', port=35345): Read timed out. (read timeout=120)
 2024-12-20 16:15:52 - Error on page 133: HTTPConnectionPool(host='localhost', port=35345): Read timed out. (read timeout=120)
+2024-12-29 18:04:36 - Error on page 3: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.70)
+Stacktrace:
+#0 0x558f68aaab9a <unknown>
+#1 0x558f68790670 <unknown>
+#2 0x558f687661df <unknown>
+#3 0x558f6880d09d <unknown>
+#4 0x558f68823689 <unknown>
+#5 0x558f68804923 <unknown>
+#6 0x558f687d26e7 <unknown>
+#7 0x558f687d36de <unknown>
+#8 0x558f68a7466b <unknown>
+#9 0x558f68a78611 <unknown>
+#10 0x558f68a604e5 <unknown>
+#11 0x558f68a79192 <unknown>
+#12 0x558f68a456ef <unknown>
+#13 0x558f68a999d8 <unknown>
+#14 0x558f68a99ba7 <unknown>
+#15 0x558f68aa99ec <unknown>
+#16 0x7f8d80439609 start_thread
+
+2025-01-01 15:06:29 - Error on page 50: HTTPConnectionPool(host='localhost', port=35611): Max retries exceeded with url: /session/f88161300e48ca42552e7b3b603e441d/window/maximize (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa650270750>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-01-01 15:06:34 - Error on page 50: HTTPConnectionPool(host='localhost', port=35611): Max retries exceeded with url: /session/f88161300e48ca42552e7b3b603e441d/window/maximize (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa64ee61a10>: Failed to establish a new connection: [Errno 111] Connection refused'))

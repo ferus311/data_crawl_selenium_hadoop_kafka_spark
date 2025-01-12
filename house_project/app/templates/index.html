@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>House Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #ddd;
+        }
+        .truncate {
+            max-width: 200px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .button-container {
+            margin-top: 20px;
+        }
+    </style>
+    <script>
+        async function fetchOptions(url, elementId) {
+            const response = await fetch(url);
+            const data = await response.json();
+            const select = document.getElementById(elementId);
+            select.innerHTML = '<option value="">Select</option>';
+            data.forEach(item => {
+                const option = document.createElement('option');
+                option.value = item;
+                option.text = item;
+                select.appendChild(option);
+            });
+        }
+
+        async function updateDistricts() {
+            const city = document.getElementById('city').value;
+            if (city) {
+                fetchOptions(`/districts/?city=${encodeURIComponent(city)}`, 'district');
+            } else {
+                document.getElementById('district').innerHTML = '<option value="">Select District</option>';
+            }
+        }
+
+        function formatPrice(price) {
+            if (price >= 1e9) {
+                return (price / 1e9).toFixed(2) + ' Tỷ';
+            } else {
+                return (price / 1e6).toFixed(2) + ' Triệu';
+            }
+        }
+
+        function formatArea(area) {
+            return area + ' m²';
+        }
+
+        async function searchHouses() {
+            const price = document.getElementById('price').value;
+            const priceUnit = document.getElementById('price_unit').value;
+            const district = document.getElementById('district').value;
+            const city = document.getElementById('city').value;
+
+            const priceInVND = price ? price * (priceUnit === 'ty' ? 1e9 : 1e6) : null;
+            const params = new URLSearchParams({ district, city });
+            if (priceInVND) {
+                params.append('price', priceInVND);
+            }
+            const response = await fetch(`/search/?${params.toString()}`);
+            const data = await response.json();
+
+            const resultsTable = document.getElementById('results');
+            resultsTable.innerHTML = `
+                <tr>
+                    <th>Title</th>
+                    <th>Price</th>
+                    <th>Area</th>
+                    <th>Location</th>
+                    <th>Bedrooms</th>
+                    <th>Bathrooms</th>
+                </tr>
+            `;
+
+            data.houses.forEach(house => {
+                const houseData = JSON.parse(house);
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td class="truncate" title="${houseData.title}">${houseData.title}</td>
+                    <td>${houseData.price}</td>
+                    <td>${houseData.area}</td>
+                    <td>${houseData.location}</td>
+                    <td>${houseData.bedroom}</td>
+                    <td>${houseData.bathroom}</td>
+                `;
+                resultsTable.appendChild(row);
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchOptions('/cities/', 'city');
+            fetchOptions('/districts/', 'district');
+        });
+    </script>
+  </head>
+  <body>
+    <h1>House Search</h1>
+    <div>
+        <label for="price">Max Price:</label>
+        <input type="number" id="price" name="price" value="10">
+        <select id="price_unit" name="price_unit">
+            <option value="ty">Tỷ</option>
+            <option value="trieu">Triệu</option>
+        </select>
+    </div>
+    <div>
+        <label for="location">Location:</label>
+        <input type="text" id="location" name="location">
+    </div>
+    <div>
+        <label for="city">City:</label>
+        <select id="city" name="city" onchange="updateDistricts()">
+            <option value="">Select City</option>
+        </select>
+    </div>
+    <div>
+        <label for="district">District:</label>
+        <select id="district" name="district">
+            <option value="">Select District</option>
+        </select>
+    </div>
+    <button onclick="searchHouses()">Search</button>
+    <div class="button-container">
+        <button onclick="window.location.href='/charts/'">View Charts</button>
+    </div>
+    <table id="results">
+        <tr>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Area</th>
+            <th>Location</th>
+            <th>Bedrooms</th>
+            <th>Bathrooms</th>
+        </tr>
+        {% for house in data %}
+            <tr>
+                <td class="truncate" title="{{ house.title }}">{{ house.title }}</td>
+                <td>{{ house.price|floatformat:2 }}</td>
+                <td>{{ house.area }} m²</td>
+                <td>{{ house.location }}</td>
+                <td>{{ house.bedroom }}</td>
+                <td>{{ house.bathroom }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+  </body>
+</html>
