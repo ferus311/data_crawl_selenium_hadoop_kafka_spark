@@ -104,6 +104,7 @@ def crawl_data(start_page, end_page):
 # Run the crawler
 if __name__ == "__main__":
     START_PAGE = 0
-    END_PAGE = 130
+    END_PAGE = 160
     crawl_data(START_PAGE, END_PAGE)
     print("Crawling completed.")
+

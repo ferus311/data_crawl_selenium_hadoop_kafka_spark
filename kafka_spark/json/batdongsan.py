@@ -182,7 +182,7 @@ def getJsonHouses(driver):
             "bathroom": bathroom,
             "description": description,
         }
-        if location:
+        if location & area & price & price_per_m2:
             Houses.append(house_dict)
     return Houses
 
