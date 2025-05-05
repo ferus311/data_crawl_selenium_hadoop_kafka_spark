@@ -1,10 +1,10 @@
 # setup env
 
 link setup :
-hadoop: https://dlcdn.apache.org/hadoop/common/hadoop-3.4.0/hadoop-3.4.0.tar.gz
-spark: https://dlcdn.apache.org/spark/spark-3.5.3/spark-3.5.3-bin-hadoop3.tgz
-elastic: https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-8.15.2-linux-x86_64.tar.gz
-kafka: https://dlcdn.apache.org/kafka/3.9.0/kafka_2.13-3.9.0.tgz
+- hadoop: https://dlcdn.apache.org/hadoop/common/hadoop-3.4.0/hadoop-3.4.0.tar.gz
+- spark: https://dlcdn.apache.org/spark/spark-3.5.3/spark-3.5.3-bin-hadoop3.tgz
+- elastic: https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-8.15.2-linux-x86_64.tar.gz
+- kafka: https://dlcdn.apache.org/kafka/3.9.0/kafka_2.13-3.9.0.tgz
 
 download :
 
@@ -69,6 +69,3 @@ namenode : localhost:9000
 ### thao tac voi dfs
 
 -   bin/hdfs dfs -ls (-mkdir) /...
-
-
-/home/data/gr2/venv/bin/python3.11 /home/data/gr2/kafka_spark/json/con_ver2.py
